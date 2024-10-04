@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', function () {
 // Fetch the footer content
-fetch('/assets/js/generalcontent.json')
+fetch('generalcontent.json')
 .then(response => response.json())
 .then(footerContent => {
     // Access the first element of the array
