@@ -1,3 +1,4 @@
+document.addEventListener('DOMContentLoaded', function () {
 // Fetch the footer content
 fetch('/assets/js/generalcontent.js')
 .then(response => response.json())
@@ -35,3 +36,4 @@ fetch('/assets/js/generalcontent.js')
             </nav>
         `;
     }
+});
