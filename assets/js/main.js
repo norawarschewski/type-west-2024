@@ -3,7 +3,7 @@
         const pathArray = window.location.pathname.split('/');
         const slug = pathArray[pathArray.length - 2]; // Assuming 'index.html' is the last item
 
-        fetch('/assets/js/students.js')
+        fetch('/assets/js/students.json')
         .then(response => {
             if (!response.ok) {
                 throw new Error('Network response was not ok');
