@@ -1,0 +1,95 @@
+<<<<<<< HEAD
+// Masthead 
+// -----------------------------------------------------------
+=======
+/*
+ * Masthead 
+ * ----------------------------------------------------------- */
+>>>>>>> fb0fe22... initial commit
+
+.layout--masthead {
+	padding: 1em 2em;
+	display: grid;
+	grid-template-columns: 1fr 2fr;
+	align-items: center;
+	border-bottom: 1px solid var(--col-border);
+<<<<<<< HEAD
+  }
+  
+  .navigation {
+	@include no-bullets();
+	text-align: right;
+  }
+  
+  .navigation li {
+	display: inline;
+	margin: 0 1em;
+	min-height: 48px;
+  }
+  
+  .navigation li a {
+	color: var(--col-text);
+	padding-bottom: 0.1em;
+	// @include link-effect();
+  
+	&:hover {
+	  color: black;
+	  padding-bottom: 0.1em;
+	  border-bottom: 1px solid var(--col-text) !important;
+	}
+  }
+  
+  .navigation li.current a {
+	color: var(--col-typewest);
+	font-weight: bold;
+	padding-bottom: 0.1em;
+	border-bottom: 2px solid var(--col-typewest);
+  }
+  
+  .navigation li.inactive a {
+	color: var(--col-typewest);
+	font-weight: bold;
+	padding-bottom: 0.1em;
+	border-bottom: 1px solid var(--col-text) !important;
+  }
+  
+=======
+}
+
+.navigation {
+	@include no-bullets();
+	text-align: right;
+}
+
+.navigation li {
+	display: initital;
+	margin: 0 1em;
+	min-height: 48px;
+}
+
+.navigation li a {
+	color: var(--col-text);
+	padding-bottom: 0.1em;
+	// @include link-effect();
+
+	&:hover {
+		color: black;
+		padding-bottom: 0.1em;
+		border-bottom: 1px solid var(--col-text)!important;
+	}
+}
+
+.navigation li.current a {
+	color: var(--col-typewest);	
+	font-weight: bold;
+	padding-bottom: 0.1em;
+	border-bottom: 2px solid var(--col-typewest);
+}
+
+.navigation li.inactive a {
+	color: var(--col-typewest);	
+	font-weight: bold;
+	padding-bottom: 0.1em;
+	border-bottom: 1px solid var(--col-text)!important;
+}
+>>>>>>> fb0fe22... initial commit

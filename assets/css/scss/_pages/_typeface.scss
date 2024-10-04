@@ -1,0 +1,140 @@
+<<<<<<< HEAD
+// Typeface intro 
+// -----------------------------------------------------------
+
+.typeface { 
+	background-color: var(--col-bg-grey); 
+  }
+  
+  .typeface--info {
+	margin: 3rem auto;
+	padding: 3rem;
+  }
+  
+  .type-intro {
+	h1 { 
+	  margin-bottom: 0.5rem; 
+	}
+  
+	p {
+	  color: var(--col-text-light);
+	  @include font-size(1.6);
+	}
+  }
+  
+  .type-tester { 
+	margin: 3.5rem 0; 
+  }
+  
+  .type-about {
+=======
+/*
+ * Typeface intro 
+ * ----------------------------------------------------------- */
+
+.typeface { background-color: var(--col-bg-grey); }
+
+.typeface--info {
+	margin: 3rem auto;
+	padding: 3rem;
+}
+
+.type-intro h1 { margin-bottom: 0.5rem; }
+
+.type-intro p {
+	color: var(--col-text-light);
+	@include font-size(1.6);
+}
+
+.type-tester { margin: 3.5rem 0; }
+
+.type-about {
+>>>>>>> fb0fe22... initial commit
+	display: grid;
+	grid-template-columns: 1fr;
+	border-top: 1px solid var(--col-border);
+	padding-top: 4em;
+<<<<<<< HEAD
+  
+	> * { 
+	  margin-bottom: 3em; 
+	}
+  
+	.about-typeface p { 
+	  @include font-size(2.4); 
+	}
+  
+	.about-student {
+	  h3 {
+		@include font-size(1.6);
+		color: var(--col-typewest);
+	  }
+	}
+  }
+  
+  @media screen and (min-width: 64em) {
+	.type-about {
+	  grid-template-columns: repeat(12, 1fr);
+	}
+  
+	.about-typeface { 
+	  grid-column: 1 / 7; 
+	}
+  
+	.about-student { 
+	  grid-column: 8 / -1; 
+	}
+  }
+  
+  // Typeface Figcaption 
+  // -----------------------------------------------------------
+  
+  figure { 
+	position: relative; 
+  }
+  
+  figure img {
+	position: relative;
+	z-index: 99;
+	margin: 0 auto;
+  }
+  
+  figcaption {
+	display: none !important;
+  }
+  
+=======
+}
+
+.type-about > * { margin-bottom: 3em; }
+.about-typeface p { @include font-size(2.4); }
+
+.about-student h3 {
+	@include font-size(1.6);
+	color: var(--col-typewest);
+}
+
+@media screen and ( min-width: 64em ) {
+	
+	.type-about { grid-template-columns: repeat(12, 1fr); }
+
+	.about-typeface { grid-column: 1 / 7; }
+	.about-student { grid-column: 8 / -1; }
+}
+
+/*
+ * Typeface Figcaption 
+ * ----------------------------------------------------------- */
+
+figure { position: relative; }
+
+figure img {
+	position: relative;
+	z-index: 99;
+	margin: 0 auto;
+}
+
+figcaption {
+	display: none!important;
+}
+>>>>>>> fb0fe22... initial commit

@@ -1,0 +1,35 @@
+/*
+ * Floating Nav 
+ * ----------------------------------------------------------- */
+
+.module--floating-nav {
+	position: absolute;
+	top: 40px;
+	right: 0px;
+	z-index: 50;
+	transform: translate(0, 0) rotate(-90deg) skew(0) skewY(0) scaleX(1) scaleY(1);
+	transform-origin: bottom right;
+	box-shadow: (0 0 #0000, 0 0 #0000), (0 0 #0000, 0 0 #0000), -5px 0 10px 0 rgba(254,9,6,.2);
+	border-top-left-radius: 1.5rem;
+	display: flex;
+	flex-direction: row;
+}
+
+.module--floating-nav button {
+	@include font-size(1.6);
+	font-weight: bold;
+	padding: 1em 1em;
+}
+
+.nav--random button {
+	display: block;
+	background-color: var(--col-typewest);
+	color: var(--col-text-reverse);
+}
+
+.nav--random button img {
+	display: inline-block;
+	vertical-align: middle;
+	margin-left: 0.5em;
+}
+

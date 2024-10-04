@@ -1,0 +1,52 @@
+<<<<<<< HEAD
+// Social
+// -----------------------------------------------------------
+
+.module--social {
+    @include no-bullets();
+  
+    li {
+      display: inline-flex;
+      margin-right: 1rem;
+      min-width: 48px;
+      min-height: 48px;
+  
+      &:empty {
+        display: none; // Hides any empty list item
+      }
+    }
+  }
+  
+  .about-student .module--social {
+    margin-top: 1em;
+  }
+  
+  @media screen and (min-width: 64em) {
+    .layout--colophon .module--social {
+      text-align: right;
+    }
+  }
+  
+=======
+/*
+ * Social
+ * ----------------------------------------------------------- */
+
+.module--social { @include no-bullets(); }
+
+.module--social li {
+    display: inline-flex;
+    margin-right: 1rem;
+}
+
+.module--social li:empty {
+    display: none; /* Hides any empty list item */
+}
+
+.about-student .module--social { margin-top: 1em; }
+
+@media screen and ( min-width: 64em ) {
+
+	.layout--colophon .module--social { text-align: right; }
+}
+>>>>>>> fb0fe22... initial commit

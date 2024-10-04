@@ -1,0 +1,43 @@
+/*
+CSS Styles for Type West 2024
+Description: Graduation website for Type West 2024 cohort. Original code and design by an unknown developer. This version has been cleaned up and simplified by Joke De Winter for the 2023 website and further optimized by Nora Warschewski in 2024.
+
+Author: Nora Warschewski
+Author URI: https://nora-warschewski.de
+
+Author: Joke De Winter
+Author URI: https://www.jokedewinter.co.uk
+Version: 2.0
+*/
+
+// Import utilities
+@import "_utilities/_mixins";
+@import "_utilities/_fonts";
+@import "_utilities/_root";
+@import "_utilities/_classfonts";
+
+// Import base styles
+@import "_base/_site";
+
+// Import components
+@import "_components/_typography";
+@import "_components/_images";
+
+// Import layout styles
+@import "_layout/_masthead";
+@import "_layout/_projects";
+@import "_layout/_people";
+@import "_layout/_colophon";
+
+// Import page styles
+@import "_pages/_about";
+@import "_pages/_typeface";
+
+// Import module styles
+@import "_module/_project";
+@import "_module/_social";
+@import "_module/_specimen-nav";
+
+// Additional pages
+@import "_pages/_show";
+@import "_pages/_square";

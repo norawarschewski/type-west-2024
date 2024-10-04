@@ -1,0 +1,130 @@
+<<<<<<< HEAD
+// Type project intro button
+// -----------------------------------------------------------
+=======
+/*
+ * Type project intro button
+ * ----------------------------------------------------------- */
+>>>>>>> fb0fe22... initial commit
+
+.module--project {
+	overflow: hidden;
+	white-space: nowrap;
+<<<<<<< HEAD
+  
+	a {
+	  display: block;
+	  padding: 2rem 3rem;
+	  text-decoration: none;
+  
+	  > * { 
+		color: var(--col-text); 
+	  }
+  
+	  h2 {
+		@include font-size(7.2);
+		line-height: 1;
+		margin: 0;
+		font-weight: normal;
+	  }
+  
+	  p.author {
+		white-space: normal;
+	  }
+  
+	  &:hover {
+		background-color: var(--col-typewest);
+  
+		> * { 
+		  color: var(--col-text-reverse); 
+		}
+  
+		h2 { 
+		  display: none; 
+		}
+  
+		.marquee { 
+		  display: inline-block; 
+		}
+	  }
+	}
+  }
+  
+  .marquee {
+=======
+}
+
+.module--project a {
+	display: block;
+	padding: 2rem 3rem;
+	text-decoration: none;
+}
+
+.module--project a > * { color: var(--col-text); }
+
+.module--project a h2 {
+	@include font-size(7.2);
+	line-height: 1;
+	margin: 0;
+	font-weight: normal;
+}
+
+.module--project a p.author {
+	white-space: normal;
+}
+
+.marquee {
+>>>>>>> fb0fe22... initial commit
+	@include font-size(7.2);
+	line-height: 1;
+	animation: marquee 21s linear infinite;
+	display: none;
+	padding-left: 75%;
+	margin: 0;
+<<<<<<< HEAD
+  }
+  
+  @keyframes marquee {
+	0% { 
+	  transform: translate(5%); 
+	}
+	to { 
+	  transform: translate(-110%); 
+	}
+  }
+  
+  @media screen and (max-width: 34.99em) {
+	.module--project a h2 { 
+	  @include font-size(5.2); 
+	}
+  }
+  
+  @media screen and (max-width: 54.99em) {
+	.fsjs-skin > .fsjs-wrapper { 
+	  display: block !important; 
+	}
+  }
+  
+=======
+} 
+
+@keyframes marquee {
+	0% { transform: translate(5%); }
+	to { transform: translate(-110%); }
+}
+
+.module--project a:hover { background-color: var(--col-typewest); }
+.module--project a:hover > * { color: var(--col-text-reverse); }
+.module--project a:hover h2 { display: none; }
+.module--project a:hover .marquee { display: inline-block; }
+
+@media screen and ( max-width: 34.99em ) {
+
+	.module--project a h2 { @include font-size(5.2); }
+}
+	
+@media screen and ( max-width: 54.99em ) {
+
+	.fsjs-skin > .fsjs-wrapper { display: block !important; }
+}
+>>>>>>> fb0fe22... initial commit

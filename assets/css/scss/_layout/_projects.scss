@@ -1,0 +1,48 @@
+<<<<<<< HEAD
+// Projects
+// -----------------------------------------------------------
+=======
+/*
+ * Projects
+ * ----------------------------------------------------------- */
+>>>>>>> fb0fe22... initial commit
+
+.layout--projects {
+	display: grid;
+	grid-template-columns: 1fr;
+<<<<<<< HEAD
+  
+	ul { 
+	  @include no-bullets(); 
+	}
+  
+	li { 
+	  border-bottom: 1px solid var(--col-border); 
+  
+	  &:nth-of-type(odd) {
+		border-right: 1px solid var(--col-border);
+	  }
+	}
+  }
+  
+  @media screen and (min-width: 55em) {
+	.layout--projects {
+	  grid-template-columns: repeat(2, 1fr);
+	}
+  }  
+=======
+}
+
+.layout--projects ul { @include no-bullets(); }
+.layout--projects li { border-bottom: 1px solid var(--col-border); }
+.layout--projects li:nth-of-type(odd) { border-right: 1px solid var(--col-border); }
+
+@media screen and ( min-width: 55em ) {
+	
+	.layout--projects { grid-template-columns: repeat(2, 1fr); }
+}
+
+
+
+
+>>>>>>> fb0fe22... initial commit

@@ -1,0 +1,57 @@
+/* Headings and paragraphs
+ * ------------------------------------------------------------- */
+
+h1 {
+	@include font-size(4.8);
+	line-height: 1;
+	color: var(--col-typewest);
+	margin-bottom: 1em;	
+}
+
+h2 {
+	@include font-size(2.4);
+	color: var(--col-typewest);
+	margin-bottom: 1em;
+}
+
+h3 {
+	@include font-size(1.8);
+	font-weight: bold;
+}
+
+p { margin-bottom: 0.75em; }
+
+
+/* Links 
+ * ------------------------------------------------------------- */
+
+a { color: var(--col-typewest); 
+
+	&:hover {
+		color: black;
+		padding-bottom: 0.1em;
+		border-bottom: 1px solid var(--col-text) !important;
+	}
+}
+
+
+/* Other
+ * ------------------------------------------------------------- */
+
+hr {
+	border: 1px solid rgba(var(--col-border), 1);
+	margin: 3em 0;
+}
+
+/* Overrides
+ * ------------------------------------------------------------- */
+
+.fsjs-skin .dk-selected,
+.fsjs-skin .fsjs-button, 
+.fsjs-skin .fsjs-block-type-buttongroup button,
+.fsjs-label-unit {
+	font-size: 16px !important;
+	font-size: 1.6rem !important;
+}
+
+.fsjs-block-type-textfield .fsjs-element { padding:6rem 0; }

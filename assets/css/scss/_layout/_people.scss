@@ -1,0 +1,25 @@
+<<<<<<< HEAD
+// People
+// -----------------------------------------------------------
+=======
+/*
+ * People 
+ * ----------------------------------------------------------- */
+>>>>>>> fb0fe22... initial commit
+
+.layout--people {
+	@include no-bullets();
+	margin: 1.25em 0;
+	@include list-with-stripes();
+<<<<<<< HEAD
+  }
+  
+  .layout--people li {
+	display: inline-block;
+  }
+  
+=======
+}
+
+.layout--people li { display: inline-block; }
+>>>>>>> fb0fe22... initial commit
