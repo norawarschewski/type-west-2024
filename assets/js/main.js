@@ -83,14 +83,13 @@ document.addEventListener('DOMContentLoaded', function () {
                     socialLinks.appendChild(websiteLink);
                 }
 
-                // Get the video section element
+                // Conditionally render the video element only if graduationVideo exists and is not an empty string
                 const videoSection = document.querySelector('.video');
 
-                // Conditionally show/hide the video section
                 if (typeof student.graduationVideo === 'string' && student.graduationVideo.trim() !== "") {
                     const iframe = videoSection.querySelector('iframe');
-                    iframe.src = student.graduationVideo; // Set the iframe source
-                    iframe.title = "Graduation Video"; // Set a title for accessibility (you can customize it)
+                    iframe.src = graduationVideo.src;
+                    iframe.title = graduationVideo.title;
                 } else {
                     videoSection.style.display = "none"; // Hide the entire video section if no video is present
                 }
