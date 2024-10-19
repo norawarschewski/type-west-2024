@@ -1,9 +1,14 @@
     document.addEventListener('DOMContentLoaded', function () {
+        let basePath = '';
+        if (window.location.pathname.includes('/typeface/')) {
+        basePath = '../'; // If inside the "typeface" folder, go up one level
+        }        
+        
         // Get the current path and extract the folder name
         const pathArray = window.location.pathname.split('/');
         const slug = pathArray[pathArray.length - 2]; // Assuming 'index.html' is the last item
 
-        fetch('/assets/js/students.json')
+        fetch('${basePath}/assets/js/students.json')
         .then(response => {
             if (!response.ok) {
                 throw new Error('Network response was not ok');

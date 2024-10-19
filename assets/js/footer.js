@@ -1,6 +1,12 @@
 document.addEventListener('DOMContentLoaded', function () {
+// Determine base path based on current location
+let basePath = '';
+if (window.location.pathname.includes('/typeface/')) {
+  basePath = '../'; // If inside the "typeface" folder, go up one level
+}
+
 // Fetch the footer content
-fetch('../assets/js/generalcontent.json')
+fetch('${basePath}/assets/js/generalcontent.json')
 .then(response => response.json())
 .then(footerContent => {
     // Access the first element of the array
