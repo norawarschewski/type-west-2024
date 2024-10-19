@@ -253,7 +253,12 @@ svg {
   margin-top: -0.3em; }
 
 .about-student .module--social svg {
-  fill: var(--col-text); }
+  fill: var(--col-text); 
+}
+
+.about-student .module--social svg:hover {
+  fill: var(--col-typewest)
+}
 
 /*
  * Masthead 
@@ -440,36 +445,7 @@ figure img {
   margin: 0 auto; }
 
 figcaption {
-  position: absolute;
-  top: 0;
-  right: 0;
-  width: auto;
-  height: 100%;
-  background-color: rgba(255, 255, 255, 0.5);
-  z-index: 100;
-  padding: 1em 0.1em;
-  text-align: left;
-  opacity: 0;
-  writing-mode: vertical-rl;
-  text-orientation: mixed;
-  -webkit-transition-property: all;
-  -moz-transition-property: all;
-  -ms-transition-property: all;
-  -o-transition-property: all;
-  transition-property: all;
-  -webkit-transition-duration: 0.7s;
-  -moz-transition-duration: 0.7s;
-  -ms-transition-duration: 0.7s;
-  -o-transition-duration: 0.7s;
-  transition-duration: 0.7s;
-  -webkit-transition-timing-function: ease-in-out;
-  -moz-transition-timing-function: ease-in-out;
-  -ms-transition-timing-function: ease-in-out;
-  -o-transition-timing-function: ease-in-out;
-  transition-timing-function: ease-in-out; }
-
-figure:hover figcaption {
-  opacity: 1; }
+  display: none;}
 
 /*
  * Type project intro button
@@ -612,7 +588,7 @@ figure:hover figcaption {
 .layout--specimen-nav .nav--random {
   padding: 1em 0; }
 
-.layout--specimen-nav .nav--random button {
+.layout--specimen-nav {
   border-radius: 9999px;
   margin: 0 auto;
   padding: 1em 1.5em;
@@ -714,9 +690,11 @@ figure:hover figcaption {
   color: var(--col-text-reverse);
   font-weight: bold;
   cursor: pointer;
-  padding: 1.5rem;
+  padding: 1.5rem 1.5rem 1.3rem 1.5rem;
   border-top-left-radius: 1.5rem;
   border-top-right-radius: 1.5rem;
+  display: flex;
+  flex-direction: row-reverse;
 
   &:hover {
     background: var(--col-page);
@@ -724,6 +702,32 @@ figure:hover figcaption {
     border-top: 2px solid var(--col-typewest);
     border-left: 2px solid var(--col-typewest);
     border-right: 2px solid var(--col-typewest);
+  }
+
+  img {
+    margin-left: 1rem;
+  }
+}
+
+#button--lucky--single {
+  background: var(--col-typewest);
+  color: var(--col-text-reverse);
+  font-weight: bold;
+  cursor: pointer;
+  padding: 1.5rem 2.5rem;
+  border-radius: 5rem;
+  display: flex;
+  flex-direction: row-reverse;
+  width: fit-content;
+
+  &:hover {
+    background: var(--col-page);
+    color: var(--col-typewest);
+    border: 2px solid var(--col-typewest);
+  }
+
+  img {
+    margin-left: 1rem;
   }
 }
 
