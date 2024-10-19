@@ -27,7 +27,7 @@
 		<a href="index.html" class="logo" role="link">
 			<img src="assets/images/typewest.svg" height="62" width="62" aria-label="Go to homepage" alt="Logo of Type West" title="Type West">
 		</a>
-		<nav role="navigation" role="navigation" aria-label="Navigation">
+		<nav role="navigation" aria-label="Navigation">
 			<ul class="navigation" >
 				<li class="current">
 					<a href="index.html">Fonts</a>
@@ -40,6 +40,10 @@
 	</header>
 
 	<section aria-label="Projects">
+		<nav class="module--floating-nav">
+			<button role="button" id="button--lucky">I&rsquo;m feeling lucky!</button>
+		</nav>
+
 		<ul id="classList" class="layout--projects">
 			<!-- The dynamically generated student data will go here -->
 		</ul>
@@ -51,34 +55,59 @@
 <script defer src="./assets/js/footer.js"></script> 
 <script defer src="./assets/js/students.json"></script> 
 <script>
-	// Fetch the students data
-	fetch('./assets/js/students.json')
-	  .then(response => response.json())
-	  .then(students => {
-		// Shuffle students array
-		students.sort(() => Math.random() - 0.5);
-  
-		const container = document.getElementById('classList');
-		
-		function createStudentEntry(student) {
-		  return `
-			  <li class="module--project">
-				  <a href="typeface/${student.slug}">
-					  <h2 style="font-family:'${student.typefaceName}'">${student.typefaceName}</h2>
-					  <p style="font-family:'${student.typefaceName}'" class="marquee hidden">${student.pangram}</p>
-					  <p class="author">By ${student.name} &middot; ${student.location}</p>
-				  </a>
-			  </li>
-		  `;
-		}
-  
-		// Append each student's data to the list
-		students.forEach(student => {
-		  container.innerHTML += createStudentEntry(student);
+    // Fetch the students data
+    async function fetchStudents() {
+        try {
+            const response = await fetch('./assets/js/students.json'); // Update with your JSON file path
+            const students = await response.json();
+            return students;
+        } catch (error) {
+            console.error('Error fetching student data:', error);
+            return [];
+        }
+    }
+
+    function createStudentEntry(student) {
+        return `
+            <li class="module--project">
+                <a href="typeface/${student.slug}">
+                    <h2 style="font-family:'${student.typefaceName}'">${student.typefaceName}</h2>
+                    <p style="font-family:'${student.typefaceName}'" class="marquee hidden">${student.pangram}</p>
+                    <p class="author">By ${student.name} &middot; ${student.location}</p>
+                </a>
+            </li>
+        `;
+    }
+
+    function getRandomProject(students) {
+        const randomIndex = Math.floor(Math.random() * students.length);
+        return students[randomIndex];
+    }
+
+    document.addEventListener('DOMContentLoaded', async () => {
+        const students = await fetchStudents();
+
+        // Shuffle students array
+        students.sort(() => Math.random() - 0.5);
+
+        const container = document.getElementById('classList');
+        
+        // Append each student's data to the list
+        students.forEach(student => {
+            container.innerHTML += createStudentEntry(student);
+        });
+
+        document.getElementById('button--lucky').addEventListener('click', function() {
+			if (students.length > 0) {
+				const randomStudent = getRandomProject(students);
+				const projectURL = `typeface/${randomStudent.slug}`;
+				window.location.href = projectURL;
+			} else {
+				console.error('No students found.');
+			}
 		});
-		
-	  })	
-  </script>
+    });
+</script>
 
 </body>
 </html>
