@@ -19,6 +19,7 @@
 		"scss/_module/_project.scss",
 		"scss/_module/_social.scss",
 		"scss/_module/_specimen-nav.scss",
+		"scss/_module/floating-nav.scss",
 		"scss/_pages/_show.scss",
 		"scss/_pages/_square.scss"
 	],

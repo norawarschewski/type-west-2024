@@ -1,10 +1,14 @@
 @charset "UTF-8";
 /*
-CSS Styles for Type West 2023
-Description: Graduation website for Type West 2023 cohort. Original code and design by an unknown developer. This version has been cleaned up and simplified by Joke De Winter.
+CSS Styles for Type West 2024
+Description: Graduation website for Type West 2024 cohort. Original code and design by an unknown developer. This version has been cleaned up and simplified by Joke De Winter for the 2023 website and further optimized by Nora Warschewski in 2024.
+
+Author: Nora Warschewski
+Author URI: https://nora-warschewski.de
+
 Author: Joke De Winter
 Author URI: https://www.jokedewinter.co.uk
-Version: 1.0
+Version: 2.0
 */
 @font-face {
   font-family: 'Duplicate Sans';
@@ -694,5 +698,33 @@ figure:hover figcaption {
   width: 150px;
   height: 150px;
   margin-top: 1.2em; }
+
+.module--floating-nav {
+  position: absolute;
+  top: 40vh;
+  right: 0;
+  transform: translate(0, 0) rotate(-90deg) skew(0) skewY(0) scaleX(1) scaleY(1);
+  transform-origin: bottom right;
+  z-index: 100;
+  display: flex;
+}
+
+.module--floating-nav button {
+  background: var(--col-typewest);
+  color: var(--col-text-reverse);
+  font-weight: bold;
+  cursor: pointer;
+  padding: 1.5rem;
+  border-top-left-radius: 1.5rem;
+  border-top-right-radius: 1.5rem;
+
+  &:hover {
+    background: var(--col-page);
+    color: var(--col-typewest);
+    border-top: 2px solid var(--col-typewest);
+    border-left: 2px solid var(--col-typewest);
+    border-right: 2px solid var(--col-typewest);
+  }
+}
 
 /*# sourceMappingURL=screen.min.css.map */
