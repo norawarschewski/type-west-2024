@@ -83,13 +83,26 @@ document.addEventListener('DOMContentLoaded', function () {
                     socialLinks.appendChild(websiteLink);
                 }
 
-                // Update the iframe with video data
-                const graduationVideo = student.graduationVideo[0]; // Assuming you want the first video
-                if (graduationVideo) {
-                    const iframe = document.querySelector('iframe'); // Select the iframe element
+                // Conditionally render the video element only if graduationVideo exists and is not an empty string
+
+                const videoSection = document.querySelector('.video');
+
+                if (student.graduationVideo && student.graduationVideo.trim() !== "") {
+                    videoElement.innerHTML = `<video src="${student.graduationVideo}" controls></video>`;
+                } else {
+                    videoElement.style.display = "none";
+                }
+
+                if (Array.isArray(student.graduationVideo) && student.graduationVideo.length > 0) {
+                    const graduationVideo = student.graduationVideo[0]; 
+                    const iframe = document.querySelector('iframe'); 
                     iframe.src = graduationVideo.src; // Set the iframe src
                     iframe.title = graduationVideo.title; // Set the iframe title
+                } else {
+                    // Hide the iframe if no valid video is found
+                    videoSection.style.display = "none";
                 }
+
 
                 // Populate all elements with the class 'typeface-name'
                 const typefaceElements = document.getElementsByClassName('typefaceName');
