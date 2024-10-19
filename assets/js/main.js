@@ -84,11 +84,25 @@ document.addEventListener('DOMContentLoaded', function () {
                 }
 
                 // Update the iframe with video data
-                const graduationVideo = student.graduationVideo[0]; // Assuming you want the first video
-                if (graduationVideo) {
-                    const iframe = document.querySelector('iframe'); // Select the iframe element
+
+                const videoElement = document.querySelector('.video');
+
+                // Conditionally render the video element only if graduationVideo exists
+                if (student.graduationVideo) {
+                    videoElement.innerHTML = `<video src="${student.graduationVideo}" controls></video>`;
+                } else {
+                    videoElement.style.display = "none";
+                }
+
+                // If graduationVideo is an array, render the first one
+                if (Array.isArray(student.graduationVideo) && student.graduationVideo.length > 0) {
+                    const graduationVideo = student.graduationVideo[0]; // Assuming you want the first video
+                    const iframe = document.querySelector('iframe'); 
                     iframe.src = graduationVideo.src; // Set the iframe src
                     iframe.title = graduationVideo.title; // Set the iframe title
+                } else {
+                    // Handle case when there is no video in the array or the array is empty
+                    document.querySelector('iframe').style.display = "none";
                 }
 
                 // Populate all elements with the class 'typeface-name'
