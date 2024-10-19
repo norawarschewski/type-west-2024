@@ -2,7 +2,7 @@ document.addEventListener('DOMContentLoaded', function () {
     // Determine base path based on current location
     let basePath = '';
     if (window.location.pathname.includes('/typeface/')) {
-      basePath = '../'; // If inside the "typeface" folder, go up one level
+      basePath = '../../'; // If inside the "typeface" folder, go up two levels
     }
   
     // Fetch the footer content

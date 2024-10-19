@@ -1,7 +1,7 @@
 document.addEventListener('DOMContentLoaded', function () {
     let basePath = '';
     if (window.location.pathname.includes('/typeface/')) {
-        basePath = '../'; // If inside the "typeface" folder, go up one level
+        basePath = '../../'; // If inside the "typeface" folder, go up two levels
     }        
 
     // Get the current path and extract the folder name
