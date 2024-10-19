@@ -83,26 +83,17 @@ document.addEventListener('DOMContentLoaded', function () {
                     socialLinks.appendChild(websiteLink);
                 }
 
-                // Conditionally render the video element only if graduationVideo exists and is not an empty string
-
+                // Get the video section element
                 const videoSection = document.querySelector('.video');
 
-                if (student.graduationVideo && student.graduationVideo.trim() !== "") {
-                    videoElement.innerHTML = `<video src="${student.graduationVideo}" controls></video>`;
+                // Conditionally show/hide the video section
+                if (typeof student.graduationVideo === 'string' && student.graduationVideo.trim() !== "") {
+                    const iframe = videoSection.querySelector('iframe');
+                    iframe.src = student.graduationVideo; // Set the iframe source
+                    iframe.title = "Graduation Video"; // Set a title for accessibility (you can customize it)
                 } else {
-                    videoElement.style.display = "none";
+                    videoSection.style.display = "none"; // Hide the entire video section if no video is present
                 }
-
-                if (Array.isArray(student.graduationVideo) && student.graduationVideo.length > 0) {
-                    const graduationVideo = student.graduationVideo[0]; 
-                    const iframe = document.querySelector('iframe'); 
-                    iframe.src = graduationVideo.src; // Set the iframe src
-                    iframe.title = graduationVideo.title; // Set the iframe title
-                } else {
-                    // Hide the iframe if no valid video is found
-                    videoSection.style.display = "none";
-                }
-
 
                 // Populate all elements with the class 'typeface-name'
                 const typefaceElements = document.getElementsByClassName('typefaceName');
