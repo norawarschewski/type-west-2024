@@ -5,7 +5,6 @@
 	list-style: none;
 	margin: 0;
 	padding: 0;
-<<<<<<< HEAD
   }
   
   @mixin font-size($sizeValue: 1.6) {
@@ -45,60 +44,3 @@
 	transition: $property $duration $timing;
   }
   
-=======
-}
-
-@mixin font-size($sizeValue: 1.6) {
-	font-size: ($sizeValue * 10) + px;
-	font-size: $sizeValue + rem;
-}
-
-// ------------------------------------------------------
-// Putting little stripes between list items
-// ------------------------------------------------------
-
-@mixin list-with-stripes() {
-    
-    li::after {
-		content: "|";
-        display: inline-block;
-        width: auto;
-        padding: 0 .3em;
-        /*font-size: 120%;*/
-        /*font-weight: 700;*/
-        text-align: center;
-        line-height: 1.5;
-		color: var(--col-typewest);
-    }
-
-	li:last-of-type::after { content: ""; }
-}
-
-// ------------------------------------------------------
-// Link effect
-// ------------------------------------------------------
-
-@mixin link-effect {
-	@include transition (all, 0.7s, ease-in-out);
-}
-
-@mixin transition ($property, $duration, $timing) {
-	-webkit-transition-property: $property;
-	-moz-transition-property: $property;
-	-ms-transition-property: $property;
-	-o-transition-property: $property;
-	transition-property: $property;
-
-	-webkit-transition-duration: 	$duration;
-	-moz-transition-duration: $duration;
-	-ms-transition-duration: $duration;
-	-o-transition-duration: $duration;
-	transition-duration: $duration;
-
-	-webkit-transition-timing-function: $timing;
-	-moz-transition-timing-function: $timing;
-	-ms-transition-timing-function: $timing;
-	-o-transition-timing-function: $timing;
-	transition-timing-function: $timing;
-}
->>>>>>> fb0fe22... initial commit

@@ -1,18 +1,11 @@
-<<<<<<< HEAD
 // Specimen nav 
 // -----------------------------------------------------------
-=======
-/*
- * Specimen nav 
- * ----------------------------------------------------------- */
->>>>>>> fb0fe22... initial commit
 
 .layout--specimen-nav {
 	display: grid;
 	grid-template-columns: 1fr;
 	align-items: center;
 	border-top: 1px solid var(--col-border);
-<<<<<<< HEAD
   
 	.nav--specific {
 	  display: grid;
@@ -83,57 +76,3 @@
 	}
   }
   
-=======
-}
-
-.nav--specific {
-	display: grid;
-	grid-template-columns: repeat(2, 1fr);
-	height: 9em;
-}
-
-.nav--specific a {
-	display: flex;
-	flex-direction: row;
-	align-items: center;
-	padding: 0 2em;
-	
-	text-decoration: none;
-	color: var(--col-text);
-	@include link-effect();
-}
-
-.nav--specific a:hover { color: var(--col-typewest);	 }
-
-.nav--specific a div { flex: 1 1 auto; }
-.nav--specific .prev { border-right: 1px solid var(--col-border); }
-
-.nav--specific a img {
-	width: 0.75em;
-	margin-right: 1em;
-}
-
-.nav--specific a div p { @include font-size(1.6); }
-
-.nav--specific a div p span {
-	display: block;
-	font-weight: bold;
-}
-
-.layout--specimen-nav .nav--random { padding: 1em 0; }
-
-.layout--specimen-nav .nav--random button {
-	border-radius: 9999px;
-	margin: 0 auto;
-	padding: 1em 1.5em;
-	@include font-size(1.6);
-	font-weight: bold;
-}
-
-@media screen and ( min-width: 64em ) {
-
-	.layout--specimen-nav { grid-template-columns: repeat(4, 1fr); }
-	.nav--specific { grid-column: span 2; }
-	.layout--specimen-nav .nav--random { grid-column: 4 / -1; }
-}
->>>>>>> fb0fe22... initial commit
