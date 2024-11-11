@@ -1,226 +1,547 @@
 [
     {
-        "year": "2024",
-        "name": "Zariana",
-        "slug": "hell-inc",
-        "location": "Arlington, USA",
-        "bio": "Adriana's bio",
-        "typefaceName": "Hell.Inc",
-        "typefaceDesc": "Hell.Inc Descr",
+        "name": "Aitana Cantú",
+        "slug": "spore-print",
+        "location": "Los Angeles, USA",
+        "bio": "Bio",
+        "typefaceName": "Spore Print",
+        "typefaceDesc": "Description",
         "pangram": "The quick brown fox jumps over the lazy dog",
-        "instagram": "adriana",
-        "mastodon": "letterformarchive",
+        "instagram": "",
+        "mastodon": "",
         "twitter": "",
-        "websiteURL": "https://letterformarchive.org",
+        "websiteURL": "",
         "graduationVideo": "",
         "specimenImages": [
             {
-                "src": "adriana1.jpg",
-                "alt": "Adriana working on design",
-                "caption": "Adriana during her design process"
-            },
-            {
-                "src": "adriana2.jpg",
-                "alt": "Adriana's typography project",
-                "caption": "Typography project by Adriana"
-            },
-            {
-                "src": "adriana3.jpg",
-                "alt": "Adriana presenting her work",
-                "caption": "Presentation of her design work"
-            },
-            {
-                "src": "adriana4.jpg",
-                "alt": "Adriana's studio",
-                "caption": "Her creative workspace"
-            },
-            {
-                "src": "adriana5.jpg",
-                "alt": "Adriana with her team",
-                "caption": "Collaboration with her design team"
-            },
-            {
-                "src": "adriana6.jpg",
-                "alt": "Adriana's poster design",
-                "caption": "A poster design created by Adriana"
-            },
-            {
-                "src": "adriana7.jpg",
-                "alt": "Adriana sketching ideas",
-                "caption": "Sketching out design ideas"
-            },
-            {
-                "src": "adriana8.jpg",
-                "alt": "Adriana's portfolio",
-                "caption": "Showcasing her design portfolio"
-            },
-            {
-                "src": "adriana9.jpg",
-                "alt": "Adriana's final project",
-                "caption": "Final project presentation"
-            },
-            {
-                "src": "adriana10.jpg",
-                "alt": "Adriana at an exhibition",
-                "caption": "Exhibition of her work"
+                "src": "svg-sample.svg",
+                "alt": "alt",
+                "caption": "caption"
             }
         ]
     }, 
     {
-        "year": "2024",
-        "name": "Aasawari Kulkarni",
-        "slug": "ellora",
-        "location": "Arlington, USA",
-        "bio": "Aasawari Kulkarni is a designer, writer, and educator from India; currently working as Assistant professor of Design at Corcoran School of the Arts and Design at the George Washington University. She runs an independent studio practice focused around type+play. She is interested in the intersection of human behavior and culture, with design. She enjoys collaborating with cultural and educational organizations.",
-        "typefaceName": "Ellora",
-        "typefaceDesc": "Ellora is a display typeface inspired by, and an ode to the rock-cut cave complex of Ellora, Aurangabad, India. This original typeface seeks curves and forms from the carved structures found in the caves, to form tapering, narrow, and structured shapes. The serifs are heavy, and counters are constructed as though carved out of the outer forms. This typeface aims to reflect the delicate strength, and hand-carved craftsmanship of the caves, and has been built with sturdy, solid forms lending a gritty texture.",
+        "name": "Annie Szafranski",
+        "slug": "primitiv-text",
+        "location": "USA",
+        "bio": "Bio",
+        "typefaceName": "Primitiv Text",
+        "typefaceDesc": "Description",
         "pangram": "The quick brown fox jumps over the lazy dog",
-        "instagram": "aasawari_kulkarni",
+        "instagram": "",
         "mastodon": "",
-        "twitter": "Aasawarisk",
-        "website": "https://aasawarikulkarni.com/",
-        "specimenImages": [
-            {
-                "src": "1-AasawariKulkarni.jpg",
-                "alt": "AasawariKulkarni working on design",
-                "caption": "AasawariKulkarni during her design process"
-            },
-            {
-                "src": "4-AasawariKulkarni.jpg",
-                "alt": "AasawariKulkarni's typography project",
-                "caption": "Typography project by AasawariKulkarni"
-            },
-            {
-                "src": "5-AasawariKulkarni.jpg",
-                "alt": "AasawariKulkarni presenting her work",
-                "caption": "Presentation of her design work"
-            },
-            {
-                "src": "",
-                "alt": "",
-                "caption": ""
-            },
-            {
-                "src": "",
-                "alt": "",
-                "caption": ""
-            },
-            {
-                "src": "",
-                "alt": "",
-                "caption": ""
-            },
-            {
-                "src": "",
-                "alt": "",
-                "caption": ""
-            },
-            {
-                "src": "",
-                "alt": "",
-                "caption": ""
-            },
-            {
-                "src": "",
-                "alt": "",
-                "caption": ""
-            },
-            {
-                "src": "",
-                "alt": "",
-                "caption": ""
-            }
-        ],
-        "fontFiles": [
-            {
-                "style": "Ellora Regular",
-                "src": "Ellora-Regular.woff"
-            },
-            {
-                "style": "Ellora Regular Italic",
-                "src": "Ellora-Italics-Regular-AasawariKulkarni.woff"
-            },
-            {
-                "style": "Ellora Bold",
-                "src": "Ellora-Bold.woff"
-            },
-            {
-                "style": "Ellora Ultra",
-                "src": "Ellora-Ultra.woff"
-            }
-        ], 
-        "graduationVideo": [
-            {
-                "src": "",
-                "title": "Ellora by Aasawari"
-            }
-        ]
-    },
-    
-    {
-        "year": "2024",
-        "name": "B Student 3",
-        "slug": "bell",
-        "location": "Arlington, USA",
-        "bio": "Adriana's bio",
-        "typefaceName": "Hell.Inc",
-        "typefaceDesc": "Hell.Inc Descr",
-        "pangram": "The quick brown fox jumps over the lazy dog",
-        "instagram": "adriana",
-        "mastodon": "letterformarchive",
-        "twitter": "Aasawarisk",
-        "websiteURL": "https://letterformarchive.org",
+        "twitter": "",
+        "websiteURL": "",
         "graduationVideo": "",
         "specimenImages": [
             {
-                "src": "1-AasawariKulkarni.jpg",
-                "alt": "Adriana working on design",
-                "caption": "Adriana during her design process"
-            },
+                "src": "svg-sample.svg",
+                "alt": "alt",
+                "caption": "caption"
+            }
+        ]
+    }, 
+    {
+        "name": "April Moralba",
+        "slug": "mayari",
+        "location": "San Diego, USA",
+        "bio": "Bio",
+        "typefaceName": "Mayari",
+        "typefaceDesc": "Description",
+        "pangram": "The quick brown fox jumps over the lazy dog",
+        "instagram": "",
+        "mastodon": "",
+        "twitter": "",
+        "websiteURL": "",
+        "graduationVideo": "",
+        "specimenImages": [
             {
-                "src": "adriana2.jpg",
-                "alt": "Adriana's typography project",
-                "caption": "Typography project by Adriana"
-            },
+                "src": "svg-sample.svg",
+                "alt": "alt",
+                "caption": "caption"
+            }
+        ]
+    }, 
+    {
+        "name": "Bonnie Zhou",
+        "slug": "fluidance",
+        "location": "USA",
+        "bio": "Bio",
+        "typefaceName": "Fluidance",
+        "typefaceDesc": "Description",
+        "pangram": "The quick brown fox jumps over the lazy dog",
+        "instagram": "",
+        "mastodon": "",
+        "twitter": "",
+        "websiteURL": "",
+        "graduationVideo": "",
+        "specimenImages": [
             {
-                "src": "adriana3.jpg",
-                "alt": "Adriana presenting her work",
-                "caption": "Presentation of her design work"
-            },
+                "src": "svg-sample.svg",
+                "alt": "alt",
+                "caption": "caption"
+            }
+        ]
+    }, 
+    {
+        "name": "Carlos Oliveras Colom",
+        "slug": "typeface",
+        "location": "USA",
+        "bio": "Bio",
+        "typefaceName": "Typeface name",
+        "typefaceDesc": "Description",
+        "pangram": "The quick brown fox jumps over the lazy dog",
+        "instagram": "",
+        "mastodon": "",
+        "twitter": "",
+        "websiteURL": "",
+        "graduationVideo": "",
+        "specimenImages": [
             {
-                "src": "adriana4.jpg",
-                "alt": "Adriana's studio",
-                "caption": "Her creative workspace"
-            },
+                "src": "svg-sample.svg",
+                "alt": "alt",
+                "caption": "caption"
+            }
+        ]
+    }, 
+    {
+        "name": "John Misael Villanueva",
+        "slug": "Ioannem",
+        "location": "Location",
+        "bio": "Bio",
+        "typefaceName": "Typeface name",
+        "typefaceDesc": "Description",
+        "pangram": "The quick brown fox jumps over the lazy dog",
+        "instagram": "",
+        "mastodon": "",
+        "twitter": "",
+        "websiteURL": "",
+        "graduationVideo": "",
+        "specimenImages": [
             {
-                "src": "adriana5.jpg",
-                "alt": "Adriana with her team",
-                "caption": "Collaboration with her design team"
-            },
+                "src": "svg-sample.svg",
+                "alt": "alt",
+                "caption": "caption"
+            }
+        ]
+    }, 
+    {
+        "name": "Kim-Kim Bui",
+        "slug": "typeface",
+        "location": "Sweden",
+        "bio": "Bio",
+        "typefaceName": "Typeface name",
+        "typefaceDesc": "Description",
+        "pangram": "The quick brown fox jumps over the lazy dog",
+        "instagram": "",
+        "mastodon": "",
+        "twitter": "",
+        "websiteURL": "",
+        "graduationVideo": "",
+        "specimenImages": [
             {
-                "src": "adriana6.jpg",
-                "alt": "Adriana's poster design",
-                "caption": "A poster design created by Adriana"
-            },
+                "src": "svg-sample.svg",
+                "alt": "alt",
+                "caption": "caption"
+            }
+        ]
+    }, 
+    {
+        "name": "Kourosh Beigpour",
+        "slug": "typeface",
+        "location": "Location",
+        "bio": "Bio",
+        "typefaceName": "Typeface name",
+        "typefaceDesc": "Description",
+        "pangram": "The quick brown fox jumps over the lazy dog",
+        "instagram": "",
+        "mastodon": "",
+        "twitter": "",
+        "websiteURL": "",
+        "graduationVideo": "",
+        "specimenImages": [
             {
-                "src": "adriana7.jpg",
-                "alt": "Adriana sketching ideas",
-                "caption": "Sketching out design ideas"
-            },
+                "src": "svg-sample.svg",
+                "alt": "alt",
+                "caption": "caption"
+            }
+        ]
+    }, 
+    {
+        "name": "Laime Lukošiūnaitė",
+        "slug": "typeface",
+        "location": "Location",
+        "bio": "Bio",
+        "typefaceName": "Typeface name",
+        "typefaceDesc": "Description",
+        "pangram": "The quick brown fox jumps over the lazy dog",
+        "instagram": "",
+        "mastodon": "",
+        "twitter": "",
+        "websiteURL": "",
+        "graduationVideo": "",
+        "specimenImages": [
             {
-                "src": "adriana8.jpg",
-                "alt": "Adriana's portfolio",
-                "caption": "Showcasing her design portfolio"
-            },
+                "src": "svg-sample.svg",
+                "alt": "alt",
+                "caption": "caption"
+            }
+        ]
+    }, 
+    {
+        "name": "Maggie Pan",
+        "slug": "typeface",
+        "location": "New York, USA",
+        "bio": "Bio",
+        "typefaceName": "Typeface name",
+        "typefaceDesc": "Description",
+        "pangram": "The quick brown fox jumps over the lazy dog",
+        "instagram": "",
+        "mastodon": "",
+        "twitter": "",
+        "websiteURL": "",
+        "graduationVideo": "",
+        "specimenImages": [
             {
-                "src": "adriana9.jpg",
-                "alt": "Adriana's final project",
-                "caption": "Final project presentation"
-            },
+                "src": "svg-sample.svg",
+                "alt": "alt",
+                "caption": "caption"
+            }
+        ]
+    }, 
+    {
+        "name": "Rina Alfonso",
+        "slug": "materna",
+        "location": "Washington, USA",
+        "bio": "Bio",
+        "typefaceName": "Materna Display",
+        "typefaceDesc": "Description",
+        "pangram": "The quick brown fox jumps over the lazy dog",
+        "instagram": "",
+        "mastodon": "",
+        "twitter": "",
+        "websiteURL": "",
+        "graduationVideo": "",
+        "specimenImages": [
             {
-                "src": "adriana10.jpg",
-                "alt": "Adriana at an exhibition",
-                "caption": "Exhibition of her work"
+                "src": "svg-sample.svg",
+                "alt": "alt",
+                "caption": "caption"
+            }
+        ]
+    }, 
+    {
+        "name": "Mariya Lish",
+        "slug": "totokin",
+        "location": "United Kingdom",
+        "bio": "Bio",
+        "typefaceName": "Totokin",
+        "typefaceDesc": "Description",
+        "pangram": "The quick brown fox jumps over the lazy dog",
+        "instagram": "",
+        "mastodon": "",
+        "twitter": "",
+        "websiteURL": "",
+        "graduationVideo": "",
+        "specimenImages": [
+            {
+                "src": "svg-sample.svg",
+                "alt": "alt",
+                "caption": "caption"
+            }
+        ]
+    }, 
+    {
+        "name": "Naomi Hernández Soto",
+        "slug": "typeface",
+        "location": "México",
+        "bio": "Bio",
+        "typefaceName": "Typeface name",
+        "typefaceDesc": "Description",
+        "pangram": "The quick brown fox jumps over the lazy dog",
+        "instagram": "",
+        "mastodon": "",
+        "twitter": "",
+        "websiteURL": "",
+        "graduationVideo": "",
+        "specimenImages": [
+            {
+                "src": "svg-sample.svg",
+                "alt": "alt",
+                "caption": "caption"
+            }
+        ]
+    }, 
+    {
+        "name": "Pearl Hoi Tung Law",
+        "slug": "Faux Pearl",
+        "location": "Hong Kong",
+        "bio": "Bio",
+        "typefaceName": "Typeface name",
+        "typefaceDesc": "Description",
+        "pangram": "The quick brown fox jumps over the lazy dog",
+        "instagram": "",
+        "mastodon": "",
+        "twitter": "",
+        "websiteURL": "",
+        "graduationVideo": "",
+        "specimenImages": [
+            {
+                "src": "svg-sample.svg",
+                "alt": "alt",
+                "caption": "caption"
+            }
+        ]
+    }, 
+    {
+        "name": "Porfirio Antonio Lopez Casas",
+        "slug": "didotti",
+        "location": "Munich, Germany",
+        "bio": "Bio",
+        "typefaceName": "Didotti",
+        "typefaceDesc": "Description",
+        "pangram": "The quick brown fox jumps over the lazy dog",
+        "instagram": "",
+        "mastodon": "",
+        "twitter": "",
+        "websiteURL": "",
+        "graduationVideo": "",
+        "specimenImages": [
+            {
+                "src": "svg-sample.svg",
+                "alt": "alt",
+                "caption": "caption"
+            }
+        ]
+    }, 
+    {
+        "name": "Rachel Susan Ross",
+        "slug": "domenikos",
+        "location": "USA",
+        "bio": "Bio",
+        "typefaceName": "Doménikos",
+        "typefaceDesc": "Description",
+        "pangram": "The quick brown fox jumps over the lazy dog",
+        "instagram": "",
+        "mastodon": "",
+        "twitter": "",
+        "websiteURL": "",
+        "graduationVideo": "",
+        "specimenImages": [
+            {
+                "src": "svg-sample.svg",
+                "alt": "alt",
+                "caption": "caption"
+            }
+        ]
+    }, 
+    {
+        "name": "Rajan Kumar Singh",
+        "slug": "moonquill",
+        "location": "Haryana, India",
+        "bio": "Bio",
+        "typefaceName": "Moonquill",
+        "typefaceDesc": "Description",
+        "pangram": "The quick brown fox jumps over the lazy dog",
+        "instagram": "",
+        "mastodon": "",
+        "twitter": "",
+        "websiteURL": "",
+        "graduationVideo": "",
+        "specimenImages": [
+            {
+                "src": "svg-sample.svg",
+                "alt": "alt",
+                "caption": "caption"
+            }
+        ]
+    }, 
+    {
+        "name": "Alexis Gallo",
+        "slug": "typeface",
+        "location": "San Francisco, USA",
+        "bio": "Bio",
+        "typefaceName": "Typeface name",
+        "typefaceDesc": "Description",
+        "pangram": "The quick brown fox jumps over the lazy dog",
+        "instagram": "",
+        "mastodon": "",
+        "twitter": "",
+        "websiteURL": "",
+        "graduationVideo": "",
+        "specimenImages": [
+            {
+                "src": "svg-sample.svg",
+                "alt": "alt",
+                "caption": "caption"
+            }
+        ]
+    },
+    {
+        "name": "Annie Burke Yost",
+        "slug": "typeface",
+        "location": "San Francisco, USA",
+        "bio": "Bio",
+        "typefaceName": "Typeface name",
+        "typefaceDesc": "Description",
+        "pangram": "The quick brown fox jumps over the lazy dog",
+        "instagram": "",
+        "mastodon": "",
+        "twitter": "",
+        "websiteURL": "",
+        "graduationVideo": "",
+        "specimenImages": [
+            {
+                "src": "svg-sample.svg",
+                "alt": "alt",
+                "caption": "caption"
+            }
+        ]
+    },
+    {
+        "name": "Christopher Willmore",
+        "slug": "typeface",
+        "location": "San Francisco, USA",
+        "bio": "Bio",
+        "typefaceName": "Typeface name",
+        "typefaceDesc": "Description",
+        "pangram": "The quick brown fox jumps over the lazy dog",
+        "instagram": "",
+        "mastodon": "",
+        "twitter": "",
+        "websiteURL": "",
+        "graduationVideo": "",
+        "specimenImages": [
+            {
+                "src": "svg-sample.svg",
+                "alt": "alt",
+                "caption": "caption"
+            }
+        ]
+    },
+    {
+        "name": "Eli Block",
+        "slug": "typeface",
+        "location": "San Francisco, USA",
+        "bio": "Bio",
+        "typefaceName": "Typeface name",
+        "typefaceDesc": "Description",
+        "pangram": "The quick brown fox jumps over the lazy dog",
+        "instagram": "",
+        "mastodon": "",
+        "twitter": "",
+        "websiteURL": "",
+        "graduationVideo": "",
+        "specimenImages": [
+            {
+                "src": "svg-sample.svg",
+                "alt": "alt",
+                "caption": "caption"
+            }
+        ]
+    },
+    {
+        "name": "Irina Zhivotovskaia",
+        "slug": "typeface",
+        "location": "San Francisco, USA",
+        "bio": "Bio",
+        "typefaceName": "Typeface name",
+        "typefaceDesc": "Description",
+        "pangram": "The quick brown fox jumps over the lazy dog",
+        "instagram": "",
+        "mastodon": "",
+        "twitter": "",
+        "websiteURL": "",
+        "graduationVideo": "",
+        "specimenImages": [
+            {
+                "src": "svg-sample.svg",
+                "alt": "alt",
+                "caption": "caption"
+            }
+        ]
+    },
+    {
+        "name": "Jose Ramirez Calamateo",
+        "slug": "typeface",
+        "location": "San Francisco, USA",
+        "bio": "Bio",
+        "typefaceName": "Typeface name",
+        "typefaceDesc": "Description",
+        "pangram": "The quick brown fox jumps over the lazy dog",
+        "instagram": "",
+        "mastodon": "",
+        "twitter": "",
+        "websiteURL": "",
+        "graduationVideo": "",
+        "specimenImages": [
+            {
+                "src": "svg-sample.svg",
+                "alt": "alt",
+                "caption": "caption"
+            }
+        ]
+    },
+    {
+        "name": "Lalita Kohls",
+        "slug": "typeface",
+        "location": "San Francisco, USA",
+        "bio": "Bio",
+        "typefaceName": "Typeface name",
+        "typefaceDesc": "Description",
+        "pangram": "The quick brown fox jumps over the lazy dog",
+        "instagram": "",
+        "mastodon": "",
+        "twitter": "",
+        "websiteURL": "",
+        "graduationVideo": "",
+        "specimenImages": [
+            {
+                "src": "svg-sample.svg",
+                "alt": "alt",
+                "caption": "caption"
+            }
+        ]
+    },
+    {
+        "name": "Whitney Smith",
+        "slug": "typeface",
+        "location": "San Francisco, USA",
+        "bio": "Bio",
+        "typefaceName": "Typeface name",
+        "typefaceDesc": "Description",
+        "pangram": "The quick brown fox jumps over the lazy dog",
+        "instagram": "",
+        "mastodon": "",
+        "twitter": "",
+        "websiteURL": "",
+        "graduationVideo": "",
+        "specimenImages": [
+            {
+                "src": "svg-sample.svg",
+                "alt": "alt",
+                "caption": "caption"
+            }
+        ]
+    },
+    {
+        "name": "Yujin Chiang",
+        "slug": "typeface",
+        "location": "San Francisco, USA",
+        "bio": "Bio",
+        "typefaceName": "Typeface name",
+        "typefaceDesc": "Description",
+        "pangram": "The quick brown fox jumps over the lazy dog",
+        "instagram": "",
+        "mastodon": "",
+        "twitter": "",
+        "websiteURL": "",
+        "graduationVideo": "",
+        "specimenImages": [
+            {
+                "src": "svg-sample.svg",
+                "alt": "alt",
+                "caption": "caption"
             }
         ]
     }
