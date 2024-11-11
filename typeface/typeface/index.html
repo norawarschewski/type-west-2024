@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Typeface by Fantastic Student · Type West 2024</title>	
+    <title></title>	
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">	
     <link rel="canonical" href="#">	
@@ -34,16 +34,16 @@
 	</svg>
 
 <header class="layout--masthead">
-    <a href="/index.html" class="logo" role="link">
-        <img src="/assets/images/typewest.svg" height="61" width="61" aria-label="Go to homepage" role="link" alt="Logo of Type West" title="Type West">
+    <a href="../../index.html" class="logo" role="link">
+        <img src="../../assets/images/typewest.svg" height="62" width="62" aria-label="Go to homepage" role="link" alt="Logo of Type West" title="Type West">
     </a>
     <nav role="navigation" aria-label="Navigation">
         <ul class="navigation">
             <li class="current">
-                <a href="/index.html">Fonts</a>
+                <a href="../../index.html">Fonts</a>
             </li>
             <li>
-                <a href="/about.html">About</a>
+                <a href="../../about.html">About</a>
             </li>
         </ul>
     </nav>
@@ -52,99 +52,106 @@
 <main aria-label="Project">
     <section class="typeface--info" aria-label="Project Information">
         <section class="type-intro" aria-label="Title">
-            <h1 class="typefaceName">x</h1>
-            <p id="studentLocation">x</p>
+            <h1 class="typefaceName"></h1>
+            <p id="studentInfo"></p>
         </section>
+
+		<div class="type-tester" aria-label="Type Tester">
+			<div id="demo"></div>
+		</div>
         
         <section class="type-about" aria-label="Student Information">
             <div class="about-typeface">
-                <h2 class="typefaceName">x</h2>
-                <p id="typefaceDesc">x</p>
+                <h2 class="typefaceName"></h2>
+                <p id="typefaceDesc"></p>
             </div>
             <div class="about-student">
-                <h3 id="aboutStudentName">x</h3>
-                <p id="studentBio">x</p>
+                <h3 id="aboutStudentName"></h3>
+                <p id="bio"></p>
                 <ul class="module--social">
+					<!-- Social links will be dynamically added here -->
 				</ul>
             </div>
         </section>
     </section>
+
+	<section class="specimens" aria-label="Specimen Images">
+
+	</section>
+
+	<section class="video" aria-label="Video">
+		<div style="padding:56.25% 0 0 0;position:relative;">
+			<iframe src="" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="" data-ready="true"></iframe>
+		</div>		
+		<script src="https://player.vimeo.com/api/player.js"></script>
+	</section>
 </main>
 
 <nav class="layout--specimen-nav" role="navigation" aria-label="Navigation between projects">
     <div class="nav--specific">
         <!-- EDIT PATH -->
-        <a href="../TYPEFACENAME/index.html" class="prev" role="link" aria-label="Go to previous project">
+        <a href="../slug/index.html" class="prev" role="link" aria-label="Go to previous project">
             <img src="../../assets/images/arrow-left.svg" alt="Previous">
             <div>
                 <!-- EDIT NAME -->
-                <p>Previous Project <span>Empty Student</span></p>
+                <p>Previous Project <span>Name of Student</span></p>
             </div>
         </a>
-        <!-- EDIT PATH -->
-        <a href="../TYPEFACENAME/index.html" class="next" role="link" aria-label="Go to next project">
+        <!-- EDIT PATH to . -->
+        <a href="../slug/index.html" class="next" role="link" aria-label="Go to next project">
             <div>
                 <!-- EDIT NAME -->
-                <p>Next Project <span>Empty Student</span></p>
+                <p>Next Project <span>Name of Student</span></p>
             </div>
             <img src="../../assets/images/arrow-right.svg" alt="Next">
         </a>
     </div>
+
+    <button role="button" id="button--lucky--single">
+        <img src="../../assets/images/shuffle.svg" height="16" width="16" aria-label="Select random project" alt="Icon to shuffle and select a random project" title="Random project">
+        I&rsquo;m feeling lucky!
+    </button>
 </nav>
 
-<footer class="layout--colophon" aria-label="Footer">
-    <h3>Presented to you by Type West Class of 2024</h3>
-    <p>Type West is a postgraduate certificate program in type design available in-person in San Francisco or online to students worldwide.</p>
-    <ul class="module--social">
-        <li>
-            <a href="https://typo.social/@letterformarchive" target="_blank" title="Mastodon" role="link" aria-label="Letterformarchive on Mastodon">
-                <svg><use xlink:href="#mastodon" /></svg>
-            </a>
-        </li>
-        <li>
-            <a href="https://www.instagram.com/letterformarchive/" target="_blank" title="Instagram" role="link" aria-label="Letterformarchive on Instagram">
-                <svg><use xlink:href="#instagram" /></svg>
-            </a>
-        </li>
-        <li>
-            <a href="https://www.facebook.com/letterformarchive" target="_blank" title="Facebook" role="link" aria-label="Letterformarchive on Facebook">
-                <svg><use xlink:href="#facebook" /></svg>			
-            </a>
-        </li>
-        <li>
-            <a href="https://vimeo.com/letterformarchive" target="_blank" title="Vimeo" role="link" aria-label="Letterformarchive on Vimeo">
-                <svg><use xlink:href="#vimeo" /></svg>			
-            </a>
-        </li>
-        <li>
-            <a href="https://www.youtube.com/channel/UC7rn5scm6ysUapOzkAm65gw" target="_blank" title="YouTube" role="link" aria-label="Letterformarchive on YouTube">
-                <svg><use xlink:href="#youtube" /></svg>			
-            </a>
-        </li>
-    </ul>
+<footer id="footerContent" class="layout--colophon" aria-label="Footer">
 </footer>
-
-<script src="/assets/js/students.js"></script> 
+<script defer src="../../assets/js/students.json"></script> 
+<script defer src="../../assets/js/main.js"></script>
+<script defer src="../../assets/js/footer.js"></script> 
 
 <script>
-    fetch('/assets/js/students.js')
-    .then(response => response.json())
-            .then(data => {
-                // Find the student by slug
-                const student = data.find(student => student.slug === slug);
+    // Fetch the students data
+    async function fetchStudents() {
+        try {
+            const response = await fetch('../../assets/js/students.json'); 
+            const students = await response.json();
+            return students;
+        } catch (error) {
+            console.error('Error fetching student data:', error);
+            return [];
+        }
+    }
 
-                if (student) {
-                    // Populate the HTML with student data
-                    document.getElementById('studentName').textContent = student.name;
-                    // document.getElementById('studentLocation').textContent = `${student.city}, ${student.country}`;
-                    // document.getElementById('studentBio').textContent = student.bio;
-                    // document.getElementById('typefaceName').textContent = student.typefaceName;
-                    // document.getElementById('typefaceDesc').textContent = student.typefaceDesc;
-                } else {
-                    console.error('Student not found');
-                }
-            })
-            .catch(error => console.error('Error fetching student data:', error));
+    document.addEventListener('DOMContentLoaded', async () => {
+        const students = await fetchStudents();
+
+        // Shuffle students array
+        students.sort(() => Math.random() - 0.5);
+
+        const container = document.getElementById('classList');
+        
+
+        document.getElementById('button--lucky--single').addEventListener('click', function() {
+            if (students.length > 0) {
+                const randomStudent = students[Math.floor(Math.random() * students.length)];
+                const projectURL = `/typeface/${randomStudent.slug}`;
+                window.location.href = projectURL;
+            } else {
+                console.error('No students found.');
+            }
+        });
+    });
 </script>
+
 </body>
 </html>
