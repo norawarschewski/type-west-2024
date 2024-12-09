@@ -544,5 +544,26 @@
                 "caption": "caption"
             }
         ]
+    },
+    {
+        "name": "Taylor Beldy",
+        "slug": "typeface",
+        "location": "San Francisco, USA",
+        "bio": "Bio",
+        "typefaceName": "Typeface name",
+        "typefaceDesc": "Description",
+        "pangram": "The quick brown fox jumps over the lazy dog",
+        "instagram": "",
+        "mastodon": "",
+        "twitter": "",
+        "websiteURL": "",
+        "graduationVideo": "",
+        "specimenImages": [
+            {
+                "src": "svg-sample.svg",
+                "alt": "alt",
+                "caption": "caption"
+            }
+        ]
     }
 ]
