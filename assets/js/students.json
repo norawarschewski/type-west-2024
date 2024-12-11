@@ -107,9 +107,9 @@
     {
         "name": "John Misael Villanueva",
         "slug": "ioannem",
-        "location": "Location",
+        "location": "Philippines",
         "bio": "Bio",
-        "typefaceName": "Typeface name",
+        "typefaceName": "Ioannem",
         "typefaceDesc": "Description",
         "pangram": "The quick brown fox jumps over the lazy dog",
         "instagram": "",
@@ -143,6 +143,24 @@
                 "src": "svg-sample.svg",
                 "alt": "alt",
                 "caption": "caption"
+            }
+        ],
+        "fontFiles": [
+            {
+                "style": "Ellora Regular",
+                "src": "Ellora-Regular.woff"
+            },
+            {
+                "style": "Ellora Regular Italic",
+                "src": "Ellora-Italics-Regular-AasawariKulkarni.woff"
+            },
+            {
+                "style": "Ellora Bold",
+                "src": "Ellora-Bold.woff"
+            },
+            {
+                "style": "Ellora Ultra",
+                "src": "Ellora-Ultra.woff"
             }
         ]
     }, 
