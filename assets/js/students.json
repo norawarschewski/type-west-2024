@@ -578,6 +578,21 @@
         "graduationVideo": "",
         "specimenImages": [
             {
+                "src": "sample-1.png",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "sample-2.png",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "sample-2.png",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
                 "src": "svg-sample.svg",
                 "alt": "alt",
                 "caption": "caption"
