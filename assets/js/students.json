@@ -105,23 +105,110 @@
         ]
     }, 
     {
-        "name": "John Misael Villanueva",
+        "name": "John Misael V. Villanueva",
         "slug": "ioannem",
-        "location": "Philippines",
-        "bio": "Bio",
+        "location": "Trece Martires City, Philippines",
+        "bio": "John is a former teacher who transitioned into a career as a type designer. His interest in type design began while working with typography in teaching, eventually leading to a passion for the craft and a decision to pursue it professionally. In his work, John strives to incorporate elements of Filipino culture, aiming to create positive representations of Filipino heritage. His goal is to design typefaces that reflect the beauty of the Filipino language and culture while ensuring accessibility for all Filipinos.",
         "typefaceName": "Ioannem",
-        "typefaceDesc": "Description",
-        "pangram": "The quick brown fox jumps over the lazy dog",
-        "instagram": "",
+        "typefaceDesc": "Ioannem is a typeface inspired by Ordinationes generales Prouintiæ Sanctissimi Rosarij Philippinarum, a book printed by Juan (Ioannem) de Vera in 1604. This publication is the oldest known book produced with movable type in the Philippines. The typeface has a generally wide and rounded structure, featuring wedge serifs that enhance its historical authenticity.",
+        "pangram": "JUMPY OWLS VEX BADGERS WHILE CRAFTING EXQUISITE ZIGGURATS",
+        "instagram": "john.misael",
         "mastodon": "",
         "twitter": "",
         "websiteURL": "",
         "graduationVideo": "",
         "specimenImages": [
             {
-                "src": "svg-sample.svg",
+                "src": "john-ioannem-01.png",
                 "alt": "alt",
                 "caption": "caption"
+            },
+            {
+                "src": "john-ioannem-02.png",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "john-ioannem-03.png",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "john-ioannem-04.png",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "john-ioannem-05.png",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "john-ioannem-06.png",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "john-ioannem-07.png",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "john-ioannem-08.png",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "john-ioannem-09.png",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "john-ioannem-10.png",
+                "alt": "alt",
+                "caption": "caption"
+            }
+        ],
+        "fontFiles": [
+            {
+                "style": "Ioannem Regular",
+                "src": "ioannem-regular.woff"
+            },
+            {
+                "style": "Ioannem Italic",
+                "src": "ioannem-italic.woff"
+            },
+            {
+                "style": "Ioannem Thin",
+                "src": "ioannem-thin.woff"
+            },
+            {
+                "style": "Ioannem Extra Light",
+                "src": "ioannem-extra-light.woff"
+            },
+            {
+                "style": "Ioannem Light",
+                "src": "ioannem-light.woff"
+            },
+            {
+                "style": "Ioannem Medium",
+                "src": "ioannem-medium.woff"
+            },
+            {
+                "style": "Ioannem Semi Bold",
+                "src": "ioannem-semi-bold.woff"
+            },
+            {
+                "style": "Ioannem Bold",
+                "src": "ioannem-bold.woff"
+            },
+            {
+                "style": "Ioannem Extra Bold",
+                "src": "ioannem-extra-bold.woff"
+            },
+            {
+                "style": "Ioannem Black",
+                "src": "ioannem-black.woff"
             }
         ]
     }, 
