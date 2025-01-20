@@ -254,21 +254,92 @@
     {
         "name": "Kourosh Beigpour",
         "slug": "nandor",
-        "location": "Location",
-        "bio": "Bio",
+        "location": "Los Angeles, USA",
+        "bio": "Kourosh Beigpour is a Kurdish artist, graphic, and type designer celebrated for his contributions to typography, particularly in the creation of multilingual fonts. With over 10 fonts featured on Google Fonts and Adobe Fonts, his work seamlessly bridges classic design traditions with contemporary innovation. Kourosh’s passion for cultural and historical research extends to his efforts in preserving underrepresented languages, for which he has developed digital resources. His work has been showcased in renowned institutions like LACMA, reflecting his commitment to merging art, culture, and design in meaningful ways.",
         "typefaceName": "Nandor",
-        "typefaceDesc": "Description",
-        "pangram": "The quick brown fox jumps over the lazy dog",
-        "instagram": "",
+        "typefaceDesc": "Nandor is a typeface that blends heritage and innovation, offering a design that feels both timeless and fresh. Its classic serif structure provides a sense of tradition, while its modern details—such as ink traps and short descenders—add a dynamic, contemporary edge. The careful attention to proportion and form gives Nandor a unique ability to work across a wide range of mediums, making it suitable for everything from high-end editorial layouts to engaging digital content. Whether you’re crafting an elegant magazine spread or designing a bold brand identity, Nandor brings sophistication with a touch of playfulness.",
+        "pangram": "Ink Traps Are Designed to Solve Problems Which the Eye Can not See.",
+        "instagram": "kourosh_beigpour",
         "mastodon": "",
-        "twitter": "",
-        "websiteURL": "",
+        "twitter": "KouroshBeigpour",
+        "websiteURL": "https://kbstudio.net",
         "graduationVideo": "",
         "specimenImages": [
             {
-                "src": "svg-sample.svg",
+                "src": "1.jpg",
                 "alt": "alt",
                 "caption": "caption"
+            },
+            {
+                "src": "2.jpg",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "3.jpg",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "4.jpg",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "5.jpg",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "6.jpg",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "7.jpg",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "8.jpg",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "9.jpg",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "10.jpg",
+                "alt": "alt",
+                "caption": "caption"
+            }
+        ],
+        "fontFiles": [
+            {
+                "style": "Nandor Black",
+                "src": "Nandor-Black.woff"
+            },
+            {
+                "style": "Nandor Regular",
+                "src": "Nandor-Regular.woff"
+            },
+            {
+                "style": "Nandor Italic",
+                "src": "Nandor-Italic.woff"
+            },
+            {
+                "style": "Nandor Bold",
+                "src": "Nandor-Bold.woff"
+            },
+            {
+                "style": "Nandor Bold Italic",
+                "src": "Nandor-BoldItalic.woff"
+            },
+            {
+                "style": "Nandor Black Italic",
+                "src": "Nandor-BlackItalic.woff"
             }
         ]
     }, 

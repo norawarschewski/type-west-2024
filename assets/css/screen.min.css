@@ -38,108 +38,12 @@ Version: 2.0
   src: url("../specimens/ellora/Ellora-Regular.woff") format("woff"); }
 
 @font-face {
-  font-family: 'Hell.Inc';
-  src: url("../specimens/hell-inc/Hell-inc_Regular-AdrianaGarciduenas.woff") format("woff"); }
+  font-family: 'Ioannem';
+  src: url("../specimens/ioannem/ioannem-regular.woff") format("woff"); }
 
-@font-face {
-  font-family: 'Juntxs';
-  src: url("../specimens/juntxs/Term3_011-Bold-AleHernandez.woff") format("woff"); }
-
-@font-face {
-  font-family: 'Aldegra';
-  src: url("../specimens/aldegra/Allie-Schmitz_Aldegra-BQ-Light_Type-West-Online-2023_DEMO-AllieSchmitz.woff") format("woff"); }
-
-@font-face {
-  font-family: 'Venusville';
-  src: url("../specimens/venusville/Venusville-Regular-LeeQiuWen.woff") format("woff"); }
-
-@font-face {
-  font-family: 'TBD-Sinew';
-  src: url("../specimens/sinew/TBD-Sinew-Regular-HumbertoLopez.woff") format("woff"); }
-
-@font-face {
-  font-family: 'Symphony';
-  src: url("../specimens/symphony/Symphony_italic-Regular-CarolineLima.woff") format("woff"); }
-
-@font-face {
-  font-family: 'Pasteur';
-  src: url("../specimens/pasteur/cheeseVF-DavidHuang.woff") format("woff"); }
-
-@font-face {
-  font-family: 'Unistylist';
-  src: url("../specimens/unistylist/UnistylistRegular.woff") format("woff"); }
-
-@font-face {
-  font-family: 'Cubey';
-  src: url("../specimens/cubey/Cubey-Medium-GloriaBoadwee.woff") format("woff"); }
-
-@font-face {
-  font-family: 'Convo';
-  src: url("../specimens/convo/Convo-Regular.woff2") format("woff2"); }
-
-@font-face {
-  font-family: 'Sanibel';
-  src: url("../specimens/sanibel/Sanibel-Regular-JacobWitt.woff") format("woff"); }
-
-@font-face {
-  font-family: 'Lindsay Grotesk';
-  src: url("../specimens/lindsay-grotesk/LindsayGrotesk-Regular.woff") format("woff"); }
-
-@font-face {
-  font-family: 'Undertone';
-  src: url("../specimens/undertone/Undertone-Regular-JMD.woff") format("woff"); }
-
-@font-face {
-  font-family: 'Verrückt';
-  src: url("../specimens/verruckt/VerrucktDisplay-Black.woff") format("woff"); }
-
-@font-face {
-  font-family: 'Sansome';
-  src: url("../specimens/sansome/Sansome-Bold_otf.woff2") format("woff2"); }
-
-@font-face {
-  font-family: 'Gashlycrumb';
-  src: url("../specimens/gashlycrumb/TW_Gashlycrumb_202R-Roman-KurtShaffert.woff") format("woff"); }
-
-@font-face {
-  font-family: 'Kermie';
-  src: url("../specimens/kermie/Kermie-Italic_otf-LauraTsunoda.woff2") format("woff2"); }
-
-@font-face {
-  font-family: 'Fritzchen';
-  src: url("../specimens/fritzchen/Fritz-Regular-NoraWarschewski.woff") format("woff"); }
-
-@font-face {
-  font-family: 'Leafy';
-  src: url("../specimens/leafy/HUYLeafy-Regular-HuyLe.woff") format("woff"); }
-
-@font-face {
-  font-family: 'Momentum';
-  src: url("../specimens/momentum/momentum-black-1-20-24-RaquelRodriguez.woff") format("woff"); }
-
-@font-face {
-  font-family: 'Concrux';
-  src: url("../specimens/concrux/ConcruxCondensed_Bold-RishiMurugesan.woff") format("woff"); }
-
-@font-face {
-  font-family: 'Calvin';
-  src: url("../specimens/calvin/Calvin-Regular-RongXiang.woff") format("woff"); }
-
-@font-face {
-  font-family: 'Bijou';
-  src: url("../specimens/bijou/Bijou_website-export-Regular-SarahWong.woff") format("woff"); }
-
-@font-face {
-  font-family: 'Morgan';
-  src: url("../specimens/morgan/Morgan-Bold_otf-SethHamlin.woff2") format("woff2"); }
-
-@font-face {
-  font-family: 'Physique';
-  src: url("../specimens/physique/Physiqueab-Ultra-TimothyCronin.woff") format("woff"); }
-
-@font-face {
-  font-family: 'Mabuhay';
-  src: url("../specimens/mabuhay/Mabuhay-Regular-ClaraCayosa.woff") format("woff"); }
+  @font-face {
+    font-family: 'Nandor';
+    src: url("../specimens/nandor/Nandor-Black.woff") format("woff"); }
 
 /* Reset
  * ------------------------------------------------------------- */
