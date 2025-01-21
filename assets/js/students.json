@@ -344,23 +344,98 @@
         ]
     }, 
     {
-        "name": "Laime Lukošiūnaitė",
+        "name": "Laimė Lukošiūnaitė",
         "slug": "grumio",
-        "location": "Location",
-        "bio": "Bio",
+        "location": "London, United Kingdom",
+        "bio": "Laimė Lukošiūnaitė is an independent Lithuanian graphic designer, seeking to focus on letters full-time. Her practice is rooted in research and driven by tactile typographic experimentation. Through “letter quests,” Laimė investigates writing tools via fieldwork and hands-on experimentation. Guided by people’s histories and inspired by local folk vernacular, she envisions typographic portals that merge archival research with active investigation.",
         "typefaceName": "Grumio",
-        "typefaceDesc": "Description",
-        "pangram": "The quick brown fox jumps over the lazy dog",
-        "instagram": "",
-        "mastodon": "",
+        "typefaceDesc": "Grumio is a display type family inspired by the medieval harlequinade legacy of post-Soviet Lithuanian animation, shaped by the dubbing artists who brought these enchanted worlds to life. Rooted in reverse contrast, it embodies the spirit of a jester—merging wit with messenger duties, challenging the status quo, while navigating social spaces with charm and cunning. The typeface balances sharp, exaggerated terminals and caped serifs with geometric base shapes, echoing the bold, ornamental aesthetics of animated Gothic and Romanesque structures.",
+        "pangram": "Clandestinous harlequinade of lace portcullis",
+        "instagram": "laimelukosiunaite",
+        "mastodon": "https://typo.social/@laimeluko",
         "twitter": "",
-        "websiteURL": "",
+        "websiteURL": "http://laimeluko.com",
         "graduationVideo": "",
         "specimenImages": [
             {
-                "src": "svg-sample.svg",
+                "src": "TW_Grumio_00-LaimeLukosiunaite1.png",
                 "alt": "alt",
                 "caption": "caption"
+            },
+            {
+                "src": "TW_Grumio_00-LaimeLukosiunaite2.png",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "TW_Grumio_00-LaimeLukosiunaite3.png",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "TW_Grumio_00-LaimeLukosiunaite4.gif",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "TW_Grumio_00-LaimeLukosiunaite5.png",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "TW_Grumio_00-LaimeLukosiunaite6.gif",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "TW_Grumio_00-LaimeLukosiunaite7.png",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "TW_Grumio_00-LaimeLukosiunaite8.png",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "TW_Grumio_00-LaimeLukosiunaite9.png",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "TW_Grumio_00-LaimeLukosiunaite10.png",
+                "alt": "alt",
+                "caption": "caption"
+            }
+        ], 
+        "fontFiles": [
+            {
+                "style": "Grumio Thin",
+                "src": "Grumio-12-Thin.woff"
+            },
+            {
+                "style": "Grumio Regular",
+                "src": "Grumio-12-Regular.woff"
+            },
+            {
+                "style": "Grumio Medium",
+                "src": "Grumio-12-Medium.woff"
+            },
+            {
+                "style": "Grumio Bold",
+                "src": "Grumio-12-Bold.woff"
+            },
+            {
+                "style": "Grumio Thin Italic",
+                "src": "Grumio-12-ThinItalic.woff"
+            },
+            {
+                "style": "Grumio Base Slanted",
+                "src": "Grumio-12-BaseSlanted.woff"
+            },
+            {
+                "style": "Grumio Black",
+                "src": "Grumio-12-Black.woff"
             }
         ]
     }, 
