@@ -61,7 +61,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
                 if (student.instagram) {
                     const instagramLink = document.createElement('li'); // Create the list item element
-                    instagramLink.innerHTML = `<a href="https://www.instagram.com/${student.instagram}/" target="_blank" title="Instagram" role="link"><svg><use xlink:href="#instagram" /></svg></a>`;
+                    instagramLink.innerHTML = `<a href="https://instagram.com/${student.instagram}/" target="_blank" title="Instagram" role="link"><svg><use xlink:href="#instagram" /></svg></a>`;
                     socialLinks.appendChild(instagramLink); // Append the list item to the social links
                 }
 
@@ -73,13 +73,13 @@ document.addEventListener('DOMContentLoaded', function () {
 
                 if (student.twitter) {
                     const twitterLink = document.createElement('li');
-                    twitterLink.innerHTML = `<a href="https://www.twitter.com/${student.twitter}/" target="_blank" title="Twitter/X" role="link"><svg><use xlink:href="#twitter" /></svg></a>`;
+                    twitterLink.innerHTML = `<a href="https://x.com/${student.twitter}/" target="_blank" title="Twitter/X" role="link"><svg><use xlink:href="#twitter" /></svg></a>`;
                     socialLinks.appendChild(twitterLink);
                 }
 
-                if (student.website) {
+                if (student.websiteURL) {
                     const websiteLink = document.createElement('li');
-                    websiteLink.innerHTML = `<a href="${student.website}" target="_blank" title="Website" role="link"><svg><use xlink:href="#website" /></svg></a>`;
+                    websiteLink.innerHTML = `<a href="${student.websiteURL}" target="_blank" title="Website" role="link"><svg><use xlink:href="#website" /></svg></a>`;
                     socialLinks.appendChild(websiteLink);
                 }
 
