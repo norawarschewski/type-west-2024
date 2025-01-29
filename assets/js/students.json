@@ -506,6 +506,10 @@
         "graduationVideo": "",
 		"fontFiles": [
             {
+                "style": "Totokin Bold",
+                "src": "Totokin-Bold.woff"
+            },
+            {
                 "style": "Totokin Light",
                 "src": "Totokin-Light.woff"
             },
@@ -536,10 +540,6 @@
             {
                 "style": "Totokin SemiBold Italic",
                 "src": "Totokin-SemiBoldItalic.woff"
-            },
-            {
-                "style": "Totokin Bold",
-                "src": "Totokin-Bold.woff"
             },
             {
                 "style": "Totokin Bold Italic",
