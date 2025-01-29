@@ -34,16 +34,24 @@ Version: 2.0
   --col-typewest: rgb(254, 9, 6); }
 
 @font-face {
-  font-family: 'Ellora';
-  src: url("../specimens/ellora/Ellora-Regular.woff") format("woff"); }
-
-@font-face {
   font-family: 'Ioannem';
   src: url("../specimens/ioannem/ioannem-regular.woff") format("woff"); }
 
-  @font-face {
-    font-family: 'Nandor';
-    src: url("../specimens/nandor/Nandor-Black.woff") format("woff"); }
+@font-face {
+  font-family: 'Nandor';
+  src: url("../specimens/nandor/Nandor-Black.woff") format("woff"); }
+
+@font-face {
+  font-family: 'Totokin';
+  src: url("../specimens/totokin/Totokin-Bold.woff") format("woff"); }
+
+@font-face {
+  font-family: 'Grumio';
+  src: url("../specimens/grumio/Grumio-12-Thin.woff") format("woff"); }
+
+@font-face {
+    font-family: 'Faux Pearl';
+    src: url("../specimens/fauxpearl/FauxPearl-Black.woff") format("woff"); }
 
 /* Reset
  * ------------------------------------------------------------- */

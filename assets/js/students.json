@@ -349,10 +349,10 @@
         "location": "London, United Kingdom",
         "bio": "Laimė Lukošiūnaitė is an independent Lithuanian graphic designer, seeking to focus on letters full-time. Her practice is rooted in research and driven by tactile typographic experimentation. Through “letter quests,” Laimė investigates writing tools via fieldwork and hands-on experimentation. Guided by people’s histories and inspired by local folk vernacular, she envisions typographic portals that merge archival research with active investigation.",
         "typefaceName": "Grumio",
-        "typefaceDesc": "Grumio is a display type family inspired by the medieval harlequinade legacy of post-Soviet Lithuanian animation, shaped by the dubbing artists who brought these enchanted worlds to life. Rooted in reverse contrast, it embodies the spirit of a jester—merging wit with messenger duties, challenging the status quo, while navigating social spaces with charm and cunning. The typeface balances sharp, exaggerated terminals and caped serifs with geometric base shapes, echoing the bold, ornamental aesthetics of animated Gothic and Romanesque structures.",
-        "pangram": "Clandestinous harlequinade of lace portcullis",
-        "instagram": "laimelukosiunaite",
-        "mastodon": "https://typo.social/@laimeluko",
+        "typefaceDesc": "Grumio is a type family inspired by the seminal dubbing artists and medieval animation styles that shaped my early visual imagination in newly independent Lithuania of the 1990s. Rooted in reverse contrast, it embodies the spirit of a jester—merging sharp, exaggerated terminals and caped serifs with geometric base shapes. Its thorny, caped serifs draw from cuneiform and swift brushwork, while sculptural capitals, sketched from Roman inscriptions, introduce a cloaked serif, creating an ornamental texture reminiscent of lacework.",
+        "pangram": "Five clandestine harlequine hex wizard that quiver over laced portcullis quartz",
+        "instagram": "fogfonts",
+        "mastodon": "https://typo.social/@FogFonts",
         "twitter": "",
         "websiteURL": "http://laimeluko.com",
         "graduationVideo": "",
@@ -363,12 +363,12 @@
                 "caption": "caption"
             },
             {
-                "src": "TW_Grumio_00-LaimeLukosiunaite2.png",
+                "src": "TW_Grumio_00-LaimeLukosiunaite2.gif",
                 "alt": "alt",
                 "caption": "caption"
             },
             {
-                "src": "TW_Grumio_00-LaimeLukosiunaite3.png",
+                "src": "TW_Grumio_00-LaimeLukosiunaite3.gif",
                 "alt": "alt",
                 "caption": "caption"
             },
@@ -379,6 +379,16 @@
             },
             {
                 "src": "TW_Grumio_00-LaimeLukosiunaite5.png",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "TW_Grumio_00-LaimeLukosiunaite6.gif",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "TW_Grumio_00-LaimeLukosiunaite5.gif",
                 "alt": "alt",
                 "caption": "caption"
             },
@@ -426,16 +436,16 @@
                 "src": "Grumio-12-Bold.woff"
             },
             {
-                "style": "Grumio Thin Italic",
-                "src": "Grumio-12-ThinItalic.woff"
-            },
-            {
-                "style": "Grumio Base Slanted",
-                "src": "Grumio-12-BaseSlanted.woff"
-            },
-            {
                 "style": "Grumio Black",
                 "src": "Grumio-12-Black.woff"
+            },
+            {
+                "style": "Grumio Thin Slanted",
+                "src": "Grumio-12-ThinSlanted.woff"
+            },
+            {
+                "style": "Grumio Thin Base Slanted",
+                "src": "Grumio-12-Thin-Base-Slanted.woff"
             }
         ]
     }, 
@@ -483,20 +493,97 @@
     }, 
     {
         "name": "Mariya Lish",
-        "slug": "totokin",
-        "location": "United Kingdom",
-        "bio": "Bio",
+		"slug": "totokin",
+        "location": "Wylam, United Kingdom",
+        "bio": "Mariya is a type designer based in Northumberland, UK. Originally from Minsk, Belarus, she has called the UK home for the past 17 years. When she’s not crafting typefaces, Mariya spends her free time exploring photography and tending to her garden.",
         "typefaceName": "Totokin",
-        "typefaceDesc": "Description",
-        "pangram": "The quick brown fox jumps over the lazy dog",
-        "instagram": "",
+        "typefaceDesc": "Totokin is a moderately reverse-contrast slab serif typeface, distinguished by its unique blend of soft curves, gentle forms, and sturdy structure. This defining style creates a harmonious balance between readability and visual appeal, making it a versatile choice for various design applications. The reverse-contrast feature, where horizontal strokes are thicker than vertical ones, lends Totokin a subtle but noticeable personality, setting it apart from traditional slab serif typefaces. While its primary purpose is for text, Totokin’s approachable yet robust aesthetic also makes it suitable for branding, editorial design, packaging, and signage. The softness in its letterforms adds a welcoming touch, while its solid construction ensures legibility and impact, even at smaller sizes.",
+        "pangram": "Vibrant waves zigzag as surfers bask under the blazing summer sun.",
+        "instagram": "inhousetype",
         "mastodon": "",
         "twitter": "",
-        "websiteURL": "",
+        "websiteURL": "https://www.inhousetype.com",
         "graduationVideo": "",
+		"fontFiles": [
+            {
+                "style": "Totokin Light",
+                "src": "Totokin-Light.woff"
+            },
+            {
+                "style": "Totokin Light Italic",
+                "src": "Totokin-LightItalic.woff"
+            },
+            {
+                "style": "Totokin Regular",
+                "src": "Totokin-Regular.woff"
+            },
+            {
+                "style": "Totokin Italic",
+                "src": "Totokin-Italic.woff"
+            },
+            {
+                "style": "Totokin Medium",
+                "src": "Totokin-Medium.woff"
+            },
+            {
+                "style": "Totokin Medium Italic",
+                "src": "Totokin-MediumItalic.woff"
+            },
+            {
+                "style": "Totokin SemiBold",
+                "src": "Totokin-SemiBold.woff"
+            },
+            {
+                "style": "Totokin SemiBold Italic",
+                "src": "Totokin-SemiBoldItalic.woff"
+            },
+            {
+                "style": "Totokin Bold",
+                "src": "Totokin-Bold.woff"
+            },
+            {
+                "style": "Totokin Bold Italic",
+                "src": "Totokin-BoldItalic.woff"
+            }
+        ],
         "specimenImages": [
             {
-                "src": "svg-sample.svg",
+                "src": "MariyaLish_Web.png",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "MariyaLish_Web2.png",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "MariyaLish_Web3.png",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "MariyaLish_Web4.png",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "MariyaLish_Web5.png",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "MariyaLish_Web6.png",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "MariyaLish_Web7.png",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "MariyaLish_Web8.png",
                 "alt": "alt",
                 "caption": "caption"
             }
@@ -524,21 +611,80 @@
         ]
     }, 
     {
-        "name": "Pearl Hoi Tung Law",
-        "slug": "fauxpearl",
+        "name": "Pearl Law",
+		"slug": "fauxpearl",
         "location": "Hong Kong",
-        "bio": "Bio",
+        "bio": "Pearl Law is an illustrator and comic artist based in Hong Kong, who likes to juxtapose hand lettering with her illustrations. With a keen interest in exploring the world of typography, she joins Type West to expand her visual vocabulary in the written word. When she’s not hunched over her desk working or making zines for fun, she can be found going on walks with her dog Poppy.",
         "typefaceName": "Faux Pearl",
-        "typefaceDesc": "Description",
-        "pangram": "The quick brown fox jumps over the lazy dog",
-        "instagram": "",
+        "typefaceDesc": "Faux Pearl is a sans serif typeface based on Pearl’s own handwriting that she uses for her illustration work. Its unique selling point is its sense of play. Weird quirks found in the original handwriting have been retained but refined. Such idiosyncrasy allows room for fun and experimentations. It consists of three styles: Regular, Black, & Italic.",
+        "pangram": "A wizard’s job is to vex chumps quickly in fog.",
+        "instagram": "pearlperoni",
         "mastodon": "",
-        "twitter": "",
-        "websiteURL": "",
+        "twitter": "pearlperoni",
+        "websiteURL": "https://pearlperoni.com/",
         "graduationVideo": "",
+		 "fontFiles": [
+            {
+                "style": "Faux Pearl Black",
+                "src": "FauxPearl-Black.woff"
+            },
+            {
+                "style": "Faux Pearl Regular",
+                "src": "FauxPearl-Regular.woff"
+            },
+            {
+                "style": "Faux Pearl Italic",
+                "src": "FauxPearl-Italic.woff"
+            }            
+        ],
         "specimenImages": [
             {
-                "src": "svg-sample.svg",
+                "src": "fauxpearl_type specimen v1_01.png",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "fauxpearl_type specimen v1_02.png",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "fauxpearl_type specimen v1_03.png",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "fauxpearl_type specimen v1_04.png",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "fauxpearl_type specimen v1_05.png",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "fauxpearl_type specimen v1_06.png",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "fauxpearl_type specimen v1_07.png",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "fauxpearl_type specimen v1_08.png",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "fauxpearl_type specimen v1_09.png",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "fauxpearl_type specimen v1_10.png",
                 "alt": "alt",
                 "caption": "caption"
             }
@@ -601,7 +747,37 @@
         "graduationVideo": "",
         "specimenImages": [
             {
-                "src": "svg-sample.svg",
+                "src": "moonquill1.jpg",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "moonquill2.jpg",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "moonquill3.jpg",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "moonquill4.jpg",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "moonquill5.jpg",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "moonquill6.jpg",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "moonquill7.jpg",
                 "alt": "alt",
                 "caption": "caption"
             }
