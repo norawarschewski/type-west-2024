@@ -45,43 +45,161 @@
         "name": "April Moralba",
         "slug": "mayari",
         "location": "San Diego, USA",
-        "bio": "Bio",
+        "bio": "April Moralba (she/her) is a San Diego based graphic designer, illustrator, lettering artist and now baby type designer. She’s known for her playful lettering, whimsical use of color, enthusiastic attitude and coffee shop recommendations. Her breadth of work is diverse experimental and always evolving to perfectly fit the needs of the project at hand. If she’s not drawing letters, she’s probably playing video games, with her daughter at the park or watching a k-drama. Borahae!",
         "typefaceName": "Mayari",
-        "typefaceDesc": "Description",
-        "pangram": "The quick brown fox jumps over the lazy dog",
-        "instagram": "",
-        "mastodon": "",
-        "twitter": "",
-        "websiteURL": "",
+        "typefaceDesc": "What would the typeface look like in my dream video game? Mayari started with the visions of games like Stardew Valley, Animal Crossing and Breath of the Wild combined with some of my favorite elements from my childhood like Sailor Moon to create my ultimate cozy game. The typeface would be kinda cute, squishy, magical and full of personality. Mayari takes the logic of a textura calligraphy but with a twist of squish and stardust. It currently has three styles with plans to expand. Mayari is best suited for larger display usage like titles, headlines and oversized copy. Mayari was made to add a little sparkle and magic to everyday life.",
+        "pangram": "I stand for love and justice!",
+        "instagram": "crashboomdesigns",
+        "mastodon": "aprilmoralba",
+        "twitter": "username",
+        "websiteURL": "http://www.crashboomdesigns.com",
         "graduationVideo": "",
         "specimenImages": [
             {
-                "src": "svg-sample.svg",
+                "src": "Mayari_AprilMoralba_webspecimen-01.png",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "Mayari_AprilMoralba_webspecimen-02.png",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "Mayari_AprilMoralba_webspecimen-031.png",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "Mayari_AprilMoralba_webspecimen-04.png",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "Mayari_AprilMoralba_webspecimen-05.png",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "Mayari_AprilMoralba_webspecimen-06.png",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "Mayari_AprilMoralba_webspecimen-07.png",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "Mayari_AprilMoralba_webspecimen-08.png",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "Mayari_AprilMoralba_webspecimen-09.png",
                 "alt": "alt",
                 "caption": "caption"
             }
-        ]
+        ],
+        "fontFiles": [
+        {
+            "style": "Mayari Standard",
+            "src": "Mayari-Standard.woff"
+        },
+        {
+            "style": "Mayari Sass",
+            "src": "Mayari-Sass.woff"
+        },
+        {
+            "style": "Mayari Squish",
+            "src": "Mayari-Squish.woff"
+        }
+
+    ]
     }, 
     {
         "name": "Bonnie Zhou",
-        "slug": "fluidance",
-        "location": "USA",
-        "bio": "Bio",
-        "typefaceName": "Fluidance",
-        "typefaceDesc": "Description",
-        "pangram": "The quick brown fox jumps over the lazy dog",
-        "instagram": "",
+        "slug": "fluidence",
+        "location": "New York, USA",
+        "bio": "Bonnie Zhou is a Canadian artist and designer based in Brooklyn, New York. Her work explores the visual beauty of language, emphasizing expressiveness, fluidity, and rhythm. Her practice includes Chinese brush calligraphy, neon glass bending, figure painting, and type design, all rooted in same principles of form and movement. In a previous life Bonnie worked as a frontend engineer on Google's Material Design system, where she took her very first type design workshop — and has kept that spark alive ever since.",
+        "typefaceName": "Fluidence",
+        "typefaceDesc": "Fluidence is a display typeface that captures the expressive flow of Chinese brush calligraphy in Latin letters. With its dynamic modulation, bold contrast, and abrupt directional shifts, it evokes the energy of an ink brush moving vividly to the whimsical temperament of its holder. A playful and modern typeface, Fluidence nods to the rich, timeless beauty of Chinese and East Asian culture. Fluidence is best suited for headlines, branding, posters, or any project that needs a touch of movement and charm.",
+        "pangram": "Dance is the hidden language of the soul.",
+        "instagram": "thebonniezhou",
         "mastodon": "",
         "twitter": "",
-        "websiteURL": "",
-        "graduationVideo": "",
+        "websiteURL": "https://bonniezhou.com/",
         "specimenImages": [
             {
-                "src": "svg-sample.svg",
+                "src": "Fluidence1.png",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "Fluidence2.png",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "Fluidence3.png",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "Fluidence4.png",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "Fluidence5.png",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "Fluidence6.png",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "Fluidence7.png",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "Fluidence8.png",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "Fluidence9.png",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "Fluidence10.png",
                 "alt": "alt",
                 "caption": "caption"
             }
-        ]
+        ],
+        "fontFiles": [
+        {
+            "style": "Fluidence Regular",
+            "src": "Fluidence-Regular.woff"
+        },
+        {
+            "style": "Fluidence Bold",
+            "src": "Fluidence-Bold.woff"
+        },
+        {
+            "style": "Fluidence Black",
+            "src": "Fluidence-Black.woff"
+        },
+        {
+            "style": "Fluidence Classic",
+            "src": "Fluidence-Classic.woff"
+        }
+    ]
+
     }, 
     {
         "name": "Carlos Oliveras Colom",
@@ -215,41 +333,66 @@
     {
         "name": "Kim-Kim Bui",
         "slug": "atityd",
-        "location": "Sweden",
-        "bio": "Bio",
+        "location": "Sundsvall, Sweden",
+        "bio": "Kim-Kim is a communication designer specialising in graphic design and typeface design. With a background in cognitive neuroscience, online marketing and government projects, she brings a science-driven and user-centered approach to her design work. Her understanding of how the brain processes information guides her design process, helping her to create more effective and engaging visual communications. Her design philosophy blends digital innovation with artisanal craftsmanship, crafting visual experiences that stimulate the senses and leave a lasting impression.",
         "typefaceName": "Atityd",
-        "typefaceDesc": "Description",
-        "pangram": "The quick brown fox jumps over the lazy dog",
-        "instagram": "",
+        "typefaceDesc": "Atityd is a humanist sans display typeface that’s inspired by the dynamic movements of dance and the expressive strokes of calligraphy. It combines traditional proportions with distinctive flare endings, resulting in a design that is elegant, timeless and powerful. Each weight embodies a unique dance style — distinct expressions yet unified in form. While it’s perfect for big headlines and strong titles, Atityd’s open counters and modest stroke contrast makes it highly legible and suitable for longer text. Atityd is great for editorial design, covers, posters, branding and much more.",
+        "pangram": "Amazingly few discotheques provide jukeboxes.",
+        "instagram": "bui.kimkim",
         "mastodon": "",
         "twitter": "",
-        "websiteURL": "",
-        "graduationVideo": "",
+        "websiteURL": "https://buikimkim.com/",
         "specimenImages": [
             {
-                "src": "svg-sample.svg",
+                "src": "KimKimBui_WebsiteIMG_Atityd1.jpg",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "KimKimBui_WebsiteIMG_Atityd2.jpg",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "KimKimBui_WebsiteIMG_Atityd3.jpg",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "KimKimBui_WebsiteIMG_Atityd5.jpg",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "KimKimBui_WebsiteIMG_Atityd6.jpg",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "KimKimBui_WebsiteIMG_Atityd7.jpg",
                 "alt": "alt",
                 "caption": "caption"
             }
         ],
-        "fontFiles": [
+		"fontFiles": [
             {
-                "style": "Ellora Regular",
-                "src": "Ellora-Regular.woff"
+                "style": "Atityd Regular",
+                "src": "Atityd-Regular.woff"
             },
             {
-                "style": "Ellora Regular Italic",
-                "src": "Ellora-Italics-Regular-AasawariKulkarni.woff"
+                "style": "Atityd Italic",
+                "src": "Atityd-RegularItalic.woff"
             },
             {
-                "style": "Ellora Bold",
-                "src": "Ellora-Bold.woff"
+                "style": "Atityd Medium",
+                "src": "Atityd-Medium.woff"
             },
             {
-                "style": "Ellora Ultra",
-                "src": "Ellora-Ultra.woff"
+                "style": "Atityd Bold",
+                "src": "Atityd-Bold.woff"
             }
         ]
+
     }, 
     {
         "name": "Kourosh Beigpour",
@@ -363,17 +506,17 @@
                 "caption": "caption"
             },
             {
-                "src": "TW_Grumio_00-LaimeLukosiunaite2.gif",
+                "src": "TW_Grumio_00-LaimeLukosiunaite2.jpg",
                 "alt": "alt",
                 "caption": "caption"
             },
             {
-                "src": "TW_Grumio_00-LaimeLukosiunaite3.png",
+                "src": "TW_Grumio_00-LaimeLukosiunaite3.jpg",
                 "alt": "alt",
                 "caption": "caption"
             },
             {
-                "src": "TW_Grumio_00-LaimeLukosiunaite4.png",
+                "src": "TW_Grumio_00-LaimeLukosiunaite4.jpg",
                 "alt": "alt",
                 "caption": "caption"
             },
@@ -383,22 +526,22 @@
                 "caption": "caption"
             },
             {
-                "src": "TW_Grumio_00-LaimeLukosiunaite6.gif",
+                "src": "TW_Grumio_00-LaimeLukosiunaite6.jpg",
                 "alt": "alt",
                 "caption": "caption"
             },
             {
-                "src": "TW_Grumio_00-LaimeLukosiunaite7.png",
+                "src": "TW_Grumio_00-LaimeLukosiunaite7.jpg",
                 "alt": "alt",
                 "caption": "caption"
             },
             {
-                "src": "TW_Grumio_00-LaimeLukosiunaite8.png",
+                "src": "TW_Grumio_00-LaimeLukosiunaite8.jpg",
                 "alt": "alt",
                 "caption": "caption"
             },
             {
-                "src": "TW_Grumio_00-LaimeLukosiunaite9.png",
+                "src": "TW_Grumio_00-LaimeLukosiunaite9.jpg",
                 "alt": "alt",
                 "caption": "caption"
             },
@@ -861,22 +1004,75 @@
         "name": "Irina Zhivotovskaia",
         "slug": "tinker-bell",
         "location": "San Francisco, USA",
-        "bio": "Bio",
+        "bio": "Irina is a calligrapher and a graphic designer based in San Francisco, California. She is passionate about type design, lettering and all things handcrafted.",
         "typefaceName": "Tinker Bell",
-        "typefaceDesc": "Description",
-        "pangram": "The quick brown fox jumps over the lazy dog",
-        "instagram": "",
+        "typefaceDesc": "Tinker Bell is an upright italic typeface influenced by my calligraphic background. The typeface family takes an unconventional approach, featuring Light, Light Italic, Sans Light and Bold masters. Designed as a display typeface, Tinker Bell is perfect for anything magical, fun, and whimsical.",
+        "pangram": "All you need is faith, trust and pixie dust.",
+        "instagram": "calligraphira",
         "mastodon": "",
         "twitter": "",
-        "websiteURL": "",
+        "websiteURL": "http://calligraphira.com",
         "graduationVideo": "",
         "specimenImages": [
             {
-                "src": "svg-sample.svg",
+                "src": "irina_tinkerbell_web_01.png",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "irina_tinkerbell_web_02.png",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "irina_tinkerbell_web_03.png",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "irina_tinkerbell_web_04.png",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "irina_tinkerbell_web_05.png",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "irina_tinkerbell_web_06.png",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "irina_tinkerbell_web_07.png",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "irina_tinkerbell_web_08.png",
                 "alt": "alt",
                 "caption": "caption"
             }
-        ]
+        ],
+        "fontFiles": [
+        {
+            "style": "Tinker Bell Sans Light",
+            "src": "TinkerBell-SansLight.woff"
+        },
+        {
+            "style": "Tinker Bell Light",
+            "src": "TinkerBell-Light.woff"
+        },
+        {
+            "style": "Tinker Bell Light Italic",
+            "src": "TinkerBell-Lightitalic.woff"
+        },
+        {
+            "style": "Tinker Bell Bold",
+            "src": "TinkerBell-Bold.woff" 
+        }
+    ]
     },
     {
         "name": "Jose Ramirez Calamateo",

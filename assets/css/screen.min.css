@@ -53,6 +53,22 @@ Version: 2.0
     font-family: 'Faux Pearl';
     src: url("../specimens/fauxpearl/FauxPearl-Black.woff") format("woff"); }
 
+@font-face {
+  font-family: 'Atityd';
+  src: url("../specimens/atityd/Atityd-Regular.woff") format("woff"); }
+
+@font-face {
+  font-family: 'Fluidence';
+  src: url("../specimens/fluidence/Fluidence-Regular.woff") format("woff"); }
+
+@font-face {
+  font-family: 'Mayari';
+  src: url("../specimens/mayari/Mayari-Standard.woff") format("woff"); }
+
+@font-face {
+  font-family: 'Tinker Bell';
+  src: url("../specimens/tinker-bell/TinkerBell-SansLight.woff") format("woff"); }
+
 /* Reset
  * ------------------------------------------------------------- */
 * {
