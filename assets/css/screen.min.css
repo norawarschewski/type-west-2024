@@ -69,6 +69,10 @@ Version: 2.0
   font-family: 'Tinker Bell';
   src: url("../specimens/tinker-bell/TinkerBell-SansLight.woff") format("woff"); }
 
+@font-face {
+  font-family: 'Materna Display';
+  src: url("../specimens/materna/MaternaDisplay-Medium.woff") format("woff"); }
+
 /* Reset
  * ------------------------------------------------------------- */
 * {

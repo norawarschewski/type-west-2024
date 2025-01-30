@@ -606,19 +606,78 @@
     {
         "name": "Rina Alfonso",
         "slug": "materna",
-        "location": "Washington, USA",
-        "bio": "Bio",
+        "location": "Washington DC, USA",
+        "bio": "Rina Alfonso is a Philippine-born, Washington DC based multidisciplinary designer, artist, and educator. She is the founder of Studio Aorta, a creative studio that creates exhibitions, publications, illustrations, and visual design that celebrates stories about history, culture, social justice, and art. Her love of type as expression led her to join Type West after completing the Type@Cooper Condensed program. Aside from working on client projects she also tinkers with making art on her Risograph printer. When she does step away from all of her screens you can find her doodling with her daughter or practicing kendo (japanese fencing) at her local dojo.",
         "typefaceName": "Materna Display",
-        "typefaceDesc": "Description",
-        "pangram": "The quick brown fox jumps over the lazy dog",
-        "instagram": "",
-        "mastodon": "",
+        "typefaceDesc": "Materna Display is a typeface in 3 styles that explores various forms of contrast, drawing inspiration from my parallel journeys through motherhood and type design. It is straight with gentle curves, has wide shapes with tight spacing, thin punctuation, and monolinear diacritics. The vertical axis, thick verticals, and thin connections are reminiscent of modern typefaces which make the type suited for larger sizes and shorter paragraphs of text. It is a conceptual exploration of coexisting extremes, meant to feel familiar yet unique with its own character.",
+        "pangram": "Pangram or preferred sentence",
+        "instagram": "studioaorta",
+        "mastodon": "https://typo.social/@rina",
         "twitter": "",
-        "websiteURL": "",
+        "websiteURL": "https://studioaorta.com",
         "graduationVideo": "",
+        "fontFiles": [
+            {
+                "style": "Materna Display Medium",
+                "src": "MaternaDisplay-Medium.woff"
+            },
+            {
+                "style": "Materna Display Bold",
+                "src": "MaternaDisplay-Bold.woff"
+            },
+            {
+                "style": "Materna Display Italic",
+                "src": "MaternaDisplay-Italic.woff"
+            }
+        ],
         "specimenImages": [
             {
-                "src": "svg-sample.svg",
+                "src": "RinaAlfonso_MaternaDisplay_Specimen_2.jpg",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "RinaAlfonso_MaternaDisplay_Specimen_22.jpg",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "RinaAlfonso_MaternaDisplay_Specimen_23.jpg",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "RinaAlfonso_MaternaDisplay_Specimen_24.jpg",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "RinaAlfonso_MaternaDisplay_Specimen_25.jpg",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "RinaAlfonso_MaternaDisplay_Specimen_26.jpg",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "RinaAlfonso_MaternaDisplay_Specimen_27.jpg",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "RinaAlfonso_MaternaDisplay_Specimen_28.jpg",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "RinaAlfonso_MaternaDisplay_Specimen_29.jpg",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "RinaAlfonso_MaternaDisplay_Specimen_210.jpg",
                 "alt": "alt",
                 "caption": "caption"
             }
