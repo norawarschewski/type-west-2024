@@ -2,42 +2,162 @@
     {
         "name": "Aitana Cantú",
         "slug": "spore-print",
-        "location": "Los Angeles, USA",
-        "bio": "Bio",
+        "location": "Los Angeles, California",
+        "bio": "Aitana Cantú is a designer based in Los Angeles, California currently interested in letters, language and software. She has a deep love for craft, books, and the ocean. Her approach to design emphasizes slowness and intention, allowing space for both technical precision and organic discovery. Her current dilemma is figuring out how to spend more time doing type while also spending less time at her desk.",
         "typefaceName": "Spore Print",
-        "typefaceDesc": "Description",
-        "pangram": "The quick brown fox jumps over the lazy dog",
-        "instagram": "",
-        "mastodon": "",
-        "twitter": "",
-        "websiteURL": "",
+        "typefaceDesc": "Spore Print is a typeface named after the process of printing mushroom spores, informed by the concepts of mold, roots, and organic growth in its design. It currently includes three styles: Rhizome (Regular), represents the root, base, and structure. Slime (Italic), evokes the initial stages of growth with twisting, slimy forms. And Spore (Bold), is where it begins to expand and fill in. Spore Print’s unique texture and deliberate breaks shine in both display and text applications, making it particularly suited for editorial use in independent publications, brand identities, and scientific materials, where its distinctive character can enhance everything from book covers to data visualizations.",
+        "pangram": "The fire morel rises from the ashes of Los Angeles",
+        "instagram": "eyetaw",
+        "mastodon": "https://typo.social/@aitana",
+        "websiteURL": "https://aitanacantu.com/",
         "graduationVideo": "",
         "specimenImages": [
             {
-                "src": "svg-sample.svg",
+                "src": "SporePrint Website - 1.png",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "SporePrint Website - 2.png",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "SporePrint Website - 3.png",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "SporePrint Website - 4.png",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "SporePrint Website - 5.png",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "SporePrint Website - 6.png",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "SporePrint Website - 7.png",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "SporePrint Website - 8.png",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "SporePrint Website - 9.png",
                 "alt": "alt",
                 "caption": "caption"
             }
-        ]
+        ],
+        "fontFiles": [
+        {
+            "style": "Spore Print Rhizome",
+            "src": "SPRhizome2025VF.woff"
+        },
+        {
+            "style": "Spore Print Slime",
+            "src": "SPSlime2025VF.woff"
+        },
+        {
+            "style": "Spore Print Spore",
+            "src": "SPSpore2025VF.woff"
+        }
+    ]
     }, 
     {
         "name": "Annie Szafranski",
         "slug": "primitiv-text",
-        "location": "USA",
-        "bio": "Bio",
+        "location": "San Diego, United States",
+        "bio": "Annie Szafranski is a California-based graphic designer, typographer, and aspiring type designer creating editorial experiences across the web and in print. She’s spent over 10 years working in the design industry as an IC, and after her time in Type West, she aims to make type design a larger part of her design practice.",
         "typefaceName": "Primitiv Text",
-        "typefaceDesc": "Description",
-        "pangram": "The quick brown fox jumps over the lazy dog",
-        "instagram": "",
-        "mastodon": "",
+        "typefaceDesc": "Primitiv Text is a geometric sans serif text typeface with a comfortably noisy texture and primitive forms. It is heavily inspired by fundamental waveform shapes of synthesized sound—triangle, sawtooth, and square waves—visualized through an oscilloscope. Additionally, it pulls inspiration from technical synthesizer manuals that describe said machines and how to use them. Primitiv Text is constructed with vertical, horizontal, and diagonal lines to create curves without curves, and includes four weights and a backslant to create a textured reading experience.",
+        "pangram": "Pangram or preferred sentence",
+        "instagram": "a.szaf",
+        "mastodon": "https://typo.social/@annie",
         "twitter": "",
-        "websiteURL": "",
+        "websiteURL": "https://annieszafranski.com",
         "graduationVideo": "",
         "specimenImages": [
             {
-                "src": "svg-sample.svg",
+                "src": "Primitiv-Text_1.png",
                 "alt": "alt",
                 "caption": "caption"
+            },
+            {
+                "src": "Primitiv-Text_2.png",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "Primitiv-Text_3.png",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "Primitiv-Text_4.png",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "Primitiv-Text_5.png",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "Primitiv-Text_6.png",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "Primitiv-Text_7.png",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "Primitiv-Text_8.png",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "Primitiv-Text_9.png",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "Primitiv-Text_10.png",
+                "alt": "alt",
+                "caption": "caption"
+            }
+        ],
+        "fontFiles": [
+            {
+                "style": "PrimitivText-Regular",
+                "src": "PrimitivText-Regular.woff"
+            },
+            {
+                "style": "PrimitivText-Backslant",
+                "src": "PrimitivText-Backslant.woff"
+            },
+            {
+                "style": "PrimitivText-Medium",
+                "src": "PrimitivText-Medium.woff"
+            },
+            {
+                "style": "PrimitivText-Semibold",
+                "src": "PrimitivText-Semibold.woff"
+            },
+			{
+                "style": "PrimitivText-Bold",
+                "src": "PrimitivText-Bold.woff"
             }
         ]
     }, 
@@ -204,21 +324,80 @@
     {
         "name": "Carlos Oliveras Colom",
         "slug": "carrraizo",
-        "location": "USA",
-        "bio": "Bio",
+        "location": "New York, United States",
+        "bio": "Born and raised in Puerto Rico. Queer Brand Designer, Lettering Artist and Illustrator. In his 10+ years career he has been able to work with companies like Apple, Instagram, Amazon Music, Snapchat, WIRED, Los Angeles Times, Plenty and others. He has been awarded TDC Ascenders 2023 & LAD Young Talents 2023.",
         "typefaceName": "Carrraizo",
-        "typefaceDesc": "Description",
-        "pangram": "The quick brown fox jumps over the lazy dog",
-        "instagram": "",
-        "mastodon": "",
-        "twitter": "",
-        "websiteURL": "",
+        "typefaceDesc": "Carrraizo, is a typeface family born from the curves, valleys and lakes that flow endlessly in the Caribbean Island of Puerto Rico. Carlos wanted to be able to capture the flow, rhythm & the intricacies of the land that saw him grow and become while combining it with his lettering practice where he tends to push the boundaries of what a letter is. He enjoys taking letters from a space of design to one that is more artful, warm and approachable. This type family is composed of three styles: CHUNK, SLIM & CUT. He wanted to create three styles that complimented and contrasted each other. While also be inspired by his family and a typical household in the island — a family composed of all colors, shapes and sizes. Carrraizo is one of a bold and unapologetic personality. Unafraid of being herself wherever she goes. She is equal parts rebel, friendly and sensual.",
+        "pangram": "WEPA, EL CANRGI JANGUEA EN LA ZONA MIENTRAS SABOREA UN MOFONGO CON PERNIL, BACALAÍTOS & UN KILÓMETRO DE EMPANADILLAS. ¡QUE RICO!",
+        "instagram": "doncarrrlos",
+        "mastodon": "https://mastodon.xyz/doncarrrlos",
+        "twitter": "doncarrrlos",
+        "websiteURL": "https://doncarrrlos.com",
         "graduationVideo": "",
         "specimenImages": [
             {
-                "src": "svg-sample.svg",
+                "src": "1.png",
                 "alt": "alt",
                 "caption": "caption"
+            },
+            {
+                "src": "2.png",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "3.png",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "4.png",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "5.png",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "6.png",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "7.png",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "8.png",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "9.png",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "10.png",
+                "alt": "alt",
+                "caption": "caption"
+            }
+        ],
+        "fontFiles": [
+            {
+                "style": "CHUNK",
+                "src": "Carrraizo-CHUNK.woff"
+            },
+            {
+                "style": "SLIM",
+                "src": "Carrraizo-SLIM.woff"
+            },
+            {
+                "style": "CUT",
+                "src": "Carrraizo-CUT.woff"
             }
         ]
     }, 
@@ -585,23 +764,84 @@
     {
         "name": "Maggie Pan",
         "slug": "bevul",
-        "location": "New York, USA",
-        "bio": "Bio",
+        "location": "Brooklyn, New York, USA",
+        "bio": "Maggie is a Brooklyn-based designer, photographer, and ceramicist. In her free time, she enjoys having coffee with friends, going on long night walks, reading and re-reading.",
         "typefaceName": "Bevul",
-        "typefaceDesc": "Description",
-        "pangram": "The quick brown fox jumps over the lazy dog",
-        "instagram": "",
+        "typefaceDesc": "Bevul is a text typeface characterized by its balanced juxtaposition of calligraphic strokes and angular forms. The core inspiration for “the design originated in a concept: that contradictory styles and visuals can not only just coexist but also work symbiotically and harmoniously in a single form. Its large x-height and looser spacing optimizes it for legibility at small sizes, for digital or print. At larger sizes, its dynamic details and surprising asymmetry reveal themselves, proving to be interesting and impactful even as a display or for graphical use.",
+        "pangram": "Whenever the black fox jumped, the squirrel gazed suspiciously.",
+        "instagram": "magzipan",
         "mastodon": "",
         "twitter": "",
         "websiteURL": "",
         "graduationVideo": "",
         "specimenImages": [
             {
-                "src": "svg-sample.svg",
+                "src": "Bevul_Web_1.png",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "Bevul_Web_2.png",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "Bevul_Web_3.png",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "Bevul_Web_4.png",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "Bevul_Web_5.png",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "Bevul_Web_6.png",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "Bevul_Web_7.png",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "Bevul_Web_8.png",
                 "alt": "alt",
                 "caption": "caption"
             }
-        ]
+        ],
+        "fontFiles": [
+        {
+            "style": "Bevul Light",
+            "src": "Bevul-Light.woff"
+        },
+        {
+            "style": "Bevul Light Italic",
+            "src": "Bevul-LightItalic.woff"
+        },
+        {
+            "style": "Bevul Regular",
+            "src": "Bevul-Regular.woff"
+        },
+        {
+            "style": "Bevul Medium",
+            "src": "Bevul-Medium.woff"
+        },
+            {
+            "style": "Bevul SemiBold",
+            "src": "Bevul-SemiBold.woff"
+        },
+            {
+            "style": "Bevul Bold",
+            "src": "Bevul-Bold.woff"
+        }
+    ]
     }, 
     {
         "name": "Rina Alfonso",
@@ -784,21 +1024,84 @@
     {
         "name": "Naomi Hernández Soto",
         "slug": "cara",
-        "location": "México",
-        "bio": "Bio",
+        "location": "Puebla, México",
+        "bio": "I’m a design researcher with a huge passion for type design and its great possibilities. I’m always willing to learn more about everything, but mostly typography. I consider myself as a type designer in process, so I hope you like my first typeface and please keep supporting me by sending good vibes :)",
         "typefaceName": "Cara",
-        "typefaceDesc": "Description",
-        "pangram": "The quick brown fox jumps over the lazy dog",
-        "instagram": "",
+        "typefaceDesc": "Cara is a unique typeface inspired by fashion. Designed as a text face for magazines, but it also works as display for headliners because of its peculiar details.",
+        "pangram": "Pangram or preferred sentence",
+        "instagram": "sottotype",
         "mastodon": "",
         "twitter": "",
         "websiteURL": "",
         "graduationVideo": "",
         "specimenImages": [
             {
-                "src": "svg-sample.svg",
+                "src": "Cara_WebSpecimen1.jpg",
                 "alt": "alt",
                 "caption": "caption"
+            },
+            {
+                "src": "Cara_WebSpecimen2.jpg",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "Cara_WebSpecimen3.jpg",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "Cara_WebSpecimen4.jpg",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "Cara_WebSpecimen5.gif",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "Cara_WebSpecimen6.jpg",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "Cara_WebSpecimen7.gif",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "Cara_WebSpecimen8.jpg",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "Cara_WebSpecimen9.jpg",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "Cara_WebSpecimen10.jpg",
+                "alt": "alt",
+                "caption": "caption"
+            }
+        ],
+		 "fontFiles": [
+            {
+                "style": "Cara Regular",
+                "src": "Cara-Regular.woff"
+            },
+            {
+                "style": "Cara Italic",
+                "src": "Cara-Italic.woff"
+            },
+            {
+                "style": "Cara Bold",
+                "src": "CaraBold-Regular.woff"
+            },
+            {
+                "style": "Family name Ultra",
+                "src": "name.woff"
             }
         ]
     }, 
@@ -883,56 +1186,165 @@
         ]
     }, 
     {
-        "name": "Porfirio Antonio Lopez Casas",
+        "name": "Porfirio Lopez",
         "slug": "didotti",
-        "location": "Munich, Germany",
-        "bio": "Bio",
+        "location": "Munich, Germany & Xalapa, Mexico",
+        "bio": "Porfirio López is a Mexican designer based in Germany. He runs the design studio SERIOUS.BUSINESS, where he works on branding for startups. ",
         "typefaceName": "Didotti",
-        "typefaceDesc": "Description",
-        "pangram": "The quick brown fox jumps over the lazy dog",
-        "instagram": "",
+        "typefaceDesc": "Didotti is a contemporary serif inspired by the refined elegance of Didot and Bodoni, infused with a French touch. It began as a revival of a typeface found in Précis des leçons d'architecture (1840) and has since developed into a family with Regular, Bold, and Italic styles. Currently designed for text, Didotti is set to evolve into a more extensive type system in the future.",
+        "pangram": "El xoloitzcuintle de Xalapa brincó del parque Juárez al Ávila Camacho por café, tacos y jazz",
+        "instagram": "elvatoconbotas",
         "mastodon": "",
-        "twitter": "",
-        "websiteURL": "",
+        "twitter": "elvatoconbotas",
+        "websiteURL": "https://serious.business/",
         "graduationVideo": "",
         "specimenImages": [
             {
-                "src": "svg-sample.svg",
+                "src": "Didotti Web 01.gif",
                 "alt": "alt",
                 "caption": "caption"
+            },
+            {
+                "src": "Didotti Web 02.jpg",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "Didotti Web 03.jpg",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "Didotti Web 04.jpg",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "Didotti Web 05.jpg",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "Didotti Web 06.jpg",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "Didotti Web 08.jpg",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "Didotti Web 09.jpg",
+                "alt": "alt",
+                "caption": "caption"
+            }
+        ],
+		 "fontFiles": [
+            {
+                "style": "Didotti Regular",
+                "src": "Didotti-Regular.woff2"
+            },
+            {
+                "style": "Didotti Bold",
+                "src": "Didotti-Bold.woff2"
+            },
+            {
+                 "style": "Didotti Italic",
+                "src": "Didotti-Italic.woff2"
             }
         ]
     }, 
     {
         "name": "Rachel Ross",
         "slug": "domenikos",
-        "location": "Baltimore, USA",
-        "bio": "Bio",
+        "location": "Baltimore, Maryland, USA",
+        "bio": "Rachel is a graphic designer based in Baltimore, Maryland. For the past two years, she has been living and studying in Portugal earning a master’s degree in Graphic design. She values craftsmanship, accessibility, and mixing analog practices with the digital space. Currently, she is exploring the relationship between typography and ceramics.",
         "typefaceName": "Doménikos",
-        "typefaceDesc": "Description",
-        "pangram": "The quick brown fox jumps over the lazy dog",
-        "instagram": "",
-        "mastodon": "",
+        "typefaceDesc": "Doménikos is a revival of the original typeface El Greco cast by the Richard Gans Foundry in Madrid, Spain. Widely used for editorial texts across the Iberian Peninsula during the 1920’s. Doménikos aims to honor the history of the foundry while celebrating the legacy of the artist Doménikos Theotokópoulos. It is designed for today’s readers and brings a historical narrative to life through typography.",
+        "pangram": "GRUMPY WIZZARDS HIKE MOUNTAINS WHILE CASTING RIGOROUS SPELLS",
+        "instagram": "rachel.s.ross",
+        "mastodon": "https://typo.social/@vilstudio",
         "twitter": "",
-        "websiteURL": "",
+        "websiteURL": "https://www.krop.com/rachelsross/#/",
         "graduationVideo": "",
         "specimenImages": [
             {
-                "src": "svg-sample.svg",
+                "src": "01_Rachel_Domenikos_websiteSpecimen-01.png",
                 "alt": "alt",
                 "caption": "caption"
+            },
+            {
+                "src": "01_Rachel_Domenikos_websiteSpecimen-02.png",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "01_Rachel_Domenikos_websiteSpecimen-03.png",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "01_Rachel_Domenikos_websiteSpecimen-04.png",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "01_Rachel_Domenikos_websiteSpecimen-05.png",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "01_Rachel_Domenikos_websiteSpecimen-06.png",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "01_Rachel_Domenikos_websiteSpecimen-07.png",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "01_Rachel_Domenikos_websiteSpecimen-08.png",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "01_Rachel_Domenikos_websiteSpecimen-09.png",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "01_Rachel_Domenikos_websiteSpecimen-10.png",
+                "alt": "alt",
+                "caption": "caption"
+            }
+        ],
+        "fontFiles": [
+            {
+                "style": "Domenikos Regular",
+                "src": "Domenikos_Regular.woff"
+            },
+            {
+                "style": "Domenikos Italic",
+                "src": "Domenikos_Italic.woff"
+            },
+            {
+                "style": "Domenikos Bold",
+                "src": "Domenikos_Bold.woff"
+      
             }
         ]
     }, 
     {
         "name": "Rajan Kumar Singh",
         "slug": "moonquill",
-        "location": "Haryana, India",
-        "bio": "Bio",
+        "location": "Faridabad, Haryana, India",
+        "bio": "Rajan aka Dashaen is a calligraphy and type design student from Haryana, India. He loves exploring different tools and techniques to create letterforms. His aim with type is to experiment and create something authentic and personal. He likes using letterforms as a way of self expression. His aim is to make a living with type and is looking for cool type jobs. When not making letterforms, he is busy listening to hip-hop music, watching anime or hiking in the mountains.",
         "typefaceName": "Moonquill",
-        "typefaceDesc": "Description",
-        "pangram": "The quick brown fox jumps over the lazy dog",
-        "instagram": "",
+        "typefaceDesc": "Moonquill is an exploration of rhythm, weight and tools that affect the design of our typefaces. The inspiration comes from designer’s love for calligraphy and graffiti alphabets. It’s an attempt to create something that balances between mechanical and handmade. Moonquill has the precision of type design but also has the creative freedom of calligraphy.",
+        "pangram": "The more you experience, the more you realise how small you are.",
+        "instagram":  "dashaen_09",
         "mastodon": "",
         "twitter": "",
         "websiteURL": "",
@@ -972,27 +1384,110 @@
                 "src": "moonquill7.jpg",
                 "alt": "alt",
                 "caption": "caption"
+            },
+            {
+                "src": "moonquill8.gif",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "moonquill9.jpg",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "moonquill10.jpg",
+                "alt": "alt",
+                "caption": "caption"
+            }
+        ],
+        "fontFiles": [
+            {
+                "style": "Moonquill Moonquill 1",
+                "src": "Moonquill-Moonquill1.woff"
+            },
+            {
+                "style": "Moonquill Moonquill 2",
+                "src": "Moonquill-Moonquill2.woff"
+            },
+            {
+                "style": "Moonquill Moonquill 3",
+                "src": "Moonquill-Moonquill3.woff"
             }
         ]
     }, 
     {
         "name": "Alexis Gallo",
         "slug": "grant-ave",
-        "location": "San Francisco, USA",
-        "bio": "Bio",
+        "location": "Brooklyn, USA",
+        "bio": "Alexis Gallo is an independent graphic designer and visual artist based in Brooklyn, NY.",
         "typefaceName": "Grant Ave.",
-        "typefaceDesc": "Description",
-        "pangram": "The quick brown fox jumps over the lazy dog",
-        "instagram": "",
+        "typefaceDesc": "Grant Ave. is a rounded neo-grotesque typeface that works for both text and display type. It is inspired by the street names that are stamped into the sidewalks of San Francisco.",
+        "pangram": "Sphinx of black quartz, judge my vow.",
+        "instagram": "glexisallo",
         "mastodon": "",
         "twitter": "",
-        "websiteURL": "",
+        "websiteURL": "www.alexisgallo,com",
         "graduationVideo": "",
         "specimenImages": [
             {
-                "src": "svg-sample.svg",
+                "src": "01.gif",
                 "alt": "alt",
                 "caption": "caption"
+            },
+            {
+                "src": "02.png",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "03.png",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "04.png",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "05.png",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "06.png",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "07.png",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "08.png",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "09.png",
+                "alt": "alt",
+                "caption": "caption"
+            }
+        ],
+		 "fontFiles": [
+            {
+                "style": "Family name Regular",
+                "src": "Grant_Ave_RegularNormal.woff"
+            },
+            {
+                "style": "Family name Regular Compressed",
+                "src": "Grant_Ave_RegularCompressed.woff"
+            },
+            {
+                "style": "Family name Regular Extended",
+                "src": "Grant_Ave_RegularExtended.woff"
             }
         ]
     },
@@ -1018,23 +1513,85 @@
         ]
     },
     {
-        "name": "Christopher Willmore",
+        "name": "Chris Willmore",
         "slug": "chough",
         "location": "San Francisco, USA",
-        "bio": "Bio",
+        "bio": "Chris Willmore is a programmer who fell in love with fonts through his work on typographic software. He grew up in Indiana but now calls San Francisco home.",
         "typefaceName": "Chough",
-        "typefaceDesc": "Description",
-        "pangram": "The quick brown fox jumps over the lazy dog",
-        "instagram": "",
-        "mastodon": "",
+        "typefaceDesc": "Chough is a sans serif typeface with high x-height that is readable at small sizes on both screen and page but still maintains a playful personality. The family features a full complement of weights from light to black; a true italic; stylistic alternates for simplified forms of 'a', 'g', and 'y'; and Cyrillic and extended Latin support. The black weight is especially well-suited for headlines and other display text. The path from the initial version of Chough to the final product was long and involved removing many unusual features that seemed like good ideas at the time, like rounded terminals, unconventional stress distribution, and cursive-like terminals. Echoes of these features can still be seen in the serifs of 'a' and 's' and the curved foot of the 'l'. Chough is pronounced 'chuff.'",
+        "pangram": "Jackdaws love my big sphinx of quartz.",
+        "instagram": "treedubdesign",
+        "mastodon": "https://mastodon.xyz/@cwillmore",
         "twitter": "",
-        "websiteURL": "",
+        "websiteURL": "https://treedub.org",
         "graduationVideo": "",
         "specimenImages": [
             {
-                "src": "svg-sample.svg",
+                "src": "image 1.png",
                 "alt": "alt",
                 "caption": "caption"
+            },
+            {
+                "src": "image 2.png",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "image 3.png",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "image 4.png",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "image 5.png",
+                "alt": "alt",
+                "caption": "caption"
+            }
+        ],
+        "fontFiles": [
+            {
+                "style": "Chough Light",
+                "src": "Chough-Light.woff"
+            },
+            {
+                "style": "Chough Light Italic",
+                "src": "Chough-LightItalic.woff"
+            },
+            {
+                "style": "Chough Regular",
+                "src": "Chough-Regular.woff"
+            },
+            {
+                "style": "Chough Italic",
+                "src": "Chough-Italic.woff"
+            },
+            {
+                "style": "Chough Bold",
+                "src": "Chough-Bold.woff"
+            },
+            {
+                "style": "Chough Bold Italic",
+                "src": "Chough-BoldItalic.otf"
+            },
+            {
+                "style": "Chough Semiblack",
+                "src": "Chough-Semiblack.woff"
+            },
+            {
+                "style": "Chough Semiblack Italic",
+                "src": "Chough-SemiblackItalic.woff"
+            },
+            {
+                "style": "Chough Black",
+                "src": "Chough-Black.woff"
+            },
+            {
+                "style": "Chough Black Italic",
+                "src": "Chough-BlackItalic.woff"
             }
         ]
     },
@@ -1179,20 +1736,81 @@
         "name": "Whitney Smith",
         "slug": "solstice",
         "location": "San Francisco, USA",
-        "bio": "Bio",
+        "bio": "Whitney Smith is a brand and experience designer based in San Francisco, CA. She’s enamored by all things type and lettering, and has created custom type for branding, packaging, editorial and apparel. She also loves snowboarding, playing drums, and enjoying the sunshine.",
         "typefaceName": "Solstice",
-        "typefaceDesc": "Description",
-        "pangram": "The quick brown fox jumps over the lazy dog",
+        "typefaceDesc": "Solstice is a classically inspired typeface with a modern aesthetic. Inspired by stone-carved letterforms and calligraphic strokes, its six styles offer a range of possible applications from branding and packaging, to editorial and film titles. Solstice is first and foremast a display face but its flexibility enables legibility at smaller sizes.",
+        "pangram": "Sphinx of black quartz judge my vow.",
         "instagram": "",
         "mastodon": "",
         "twitter": "",
-        "websiteURL": "",
+        "websiteURL": "https://workbywhitney.com",
         "graduationVideo": "",
         "specimenImages": [
             {
-                "src": "svg-sample.svg",
+                "src": "WS_Image1.png",
                 "alt": "alt",
                 "caption": "caption"
+            },
+            {
+                "src": "WS_Image2.png",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "WS_Image3.png",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "WS_Image4.png",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "WS_Image5.png",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "WS_Image6.png",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "WS_Image7.png",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "WS_Image8.png",
+                "alt": "alt",
+                "caption": "caption"
+            }
+        ],
+        "fontFiles": [
+            {
+                "style": "Solstice Regular",
+                "src": "Solstice_1_30_FINAL-Regular.woff"
+            },
+            {
+                "style": "Solstice Medium",
+                "src": "Solstice_1_30_FINAL-Medium.woff"
+            },
+            {
+                "style": "Solstice Bold",
+                "src": "Solstice_1_30_FINAL-Bold.woff"
+            },
+            {
+                "style": "Solstice Black",
+                "src": "Solstice_1_30_FINAL-Black.woff"
+            },
+			{
+                "style": "Solstice Super",
+                "src": "Solstice_1_30_FINAL-Super.woff"
+            },
+            {
+                "style": "Solstice Condensed",
+                "src": "Solstice_1_30_FINAL-Condensed.woff"
             }
         ]
     },
@@ -1210,42 +1828,6 @@
         "websiteURL": "",
         "graduationVideo": "",
         "specimenImages": [
-            {
-                "src": "svg-sample.svg",
-                "alt": "alt",
-                "caption": "caption"
-            }
-        ]
-    },
-    {
-        "name": "Taylor Beldy",
-        "slug": "hyacinth",
-        "location": "San Francisco, USA",
-        "bio": "Bio",
-        "typefaceName": "Hyacinth",
-        "typefaceDesc": "Description",
-        "pangram": "The quick brown fox jumps over the lazy dog",
-        "instagram": "",
-        "mastodon": "",
-        "twitter": "",
-        "websiteURL": "",
-        "graduationVideo": "",
-        "specimenImages": [
-            {
-                "src": "sample-1.png",
-                "alt": "alt",
-                "caption": "caption"
-            },
-            {
-                "src": "sample-2.png",
-                "alt": "alt",
-                "caption": "caption"
-            },
-            {
-                "src": "sample-3.png",
-                "alt": "alt",
-                "caption": "caption"
-            },
             {
                 "src": "svg-sample.svg",
                 "alt": "alt",
