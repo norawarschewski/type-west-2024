@@ -1480,10 +1480,10 @@
         "name": "Annie Burke Yost",
         "slug": "spaceships",
         "location": "San Francisco, USA",
-        "bio": "Bio",
+        "bio": "Annie is a designer based in the city of San Francisco. Originally from Boston, Massachusetts, she has spent the past five years as a beach-loving Californian. When she’s not designing, she enjoys baking, strength-training and cycling.",
         "typefaceName": "Spaceships",
-        "typefaceDesc": "Description",
-        "pangram": "The quick brown fox jumps over the lazy dog",
+        "typefaceDesc": "Spaceships is a round-yet-rectangular font, originally drawn as a Type Cooker. The font was primarily designed for display purposes, and comes in variable Regular and Bold weights. The font is named after a household joke involving a certain aerospace engineer husband.",
+        "pangram": "The correct term is spaceships, not space vehicles, contrary to expert opinion.",
         "instagram": "",
         "mastodon": "",
         "twitter": "",
@@ -1491,9 +1491,38 @@
         "graduationVideo": "",
         "specimenImages": [
             {
-                "src": "svg-sample.svg",
+                "src": "Spaceships-type-specimen-website1.jpg",
                 "alt": "alt",
                 "caption": "caption"
+            },
+            {
+                "src": "Spaceships-type-specimen-website2.jpg",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "Spaceships-type-specimen-website3.jpg",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "Spaceships-type-specimen-website4.jpg",
+                "alt": "alt",
+                "caption": "caption"
+            }
+        ],
+        "fontFiles": [
+            {
+                "style": "Spaceships Bold",
+                "src": "Spaceships-Typewest-1-Bold.woff"
+            },
+            {
+                "style": "Spaceships Regular",
+                "src": "Spaceships-Typewest-1-Regular.woff"
+            },
+            {
+                "style": "Spaceships Italic",
+                "src": "Spaceships-italic-TypeWestVF.woff"
             }
         ]
     },

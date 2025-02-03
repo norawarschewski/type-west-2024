@@ -121,6 +121,10 @@ src: url("../specimens/moonquill/Moonquill-Moonquill1.woff") format("woff"); }
   font-family: 'Linear E';
   src: url("../specimens/linear-e/LinearE-Light.woff") format("woff"); }
 
+@font-face {
+  font-family: 'Spaceships';
+  src: url("../specimens/spaceships/Spaceships-Typewest-1-Bold.woff") format("woff"); }
+
 /* Reset
  * ------------------------------------------------------------- */
 * {
