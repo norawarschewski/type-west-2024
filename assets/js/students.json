@@ -1753,27 +1753,6 @@
     ]
     },
     {
-        "name": "Jose Ramirez Calamateo",
-        "slug": "molli",
-        "location": "San Francisco, USA",
-        "bio": "Bio",
-        "typefaceName": "Molli",
-        "typefaceDesc": "Description",
-        "pangram": "The quick brown fox jumps over the lazy dog",
-        "instagram": "",
-        "mastodon": "",
-        "twitter": "",
-        "websiteURL": "",
-        "graduationVideo": "",
-        "specimenImages": [
-            {
-                "src": "svg-sample.svg",
-                "alt": "alt",
-                "caption": "caption"
-            }
-        ]
-    },
-    {
         "name": "Lalita Kohls",
         "slug": "skydiver",
         "location": "San Francisco, USA",
