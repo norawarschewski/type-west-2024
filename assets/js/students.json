@@ -249,6 +249,7 @@
         "mastodon": "",
         "twitter": "",
         "websiteURL": "https://bonniezhou.com/",
+        "graduationVideo": "",
         "specimenImages": [
             {
                 "src": "Fluidence1.png",
@@ -521,6 +522,7 @@
         "mastodon": "",
         "twitter": "",
         "websiteURL": "https://buikimkim.com/",
+        "graduationVideo": "",
         "specimenImages": [
             {
                 "src": "KimKimBui_WebsiteIMG_Atityd1.jpg",
@@ -1028,7 +1030,7 @@
         "bio": "I’m a design researcher with a huge passion for type design and its great possibilities. I’m always willing to learn more about everything, but mostly typography. I consider myself as a type designer in process, so I hope you like my first typeface and please keep supporting me by sending good vibes :)",
         "typefaceName": "Cara",
         "typefaceDesc": "Cara is a unique typeface inspired by fashion. Designed as a text face for magazines, but it also works as display for headliners because of its peculiar details.",
-        "pangram": "Pangram or preferred sentence",
+        "pangram": "Waltz, nymph, for quick jigs vex Bud",
         "instagram": "sottotype",
         "mastodon": "",
         "twitter": "",
@@ -1118,20 +1120,20 @@
         "twitter": "pearlperoni",
         "websiteURL": "https://pearlperoni.com/",
         "graduationVideo": "",
-		 "fontFiles": [
-            {
-                "style": "Faux Pearl Black",
-                "src": "FauxPearl-Black.woff"
-            },
-            {
-                "style": "Faux Pearl Regular",
-                "src": "FauxPearl-Regular.woff"
-            },
-            {
-                "style": "Faux Pearl Italic",
-                "src": "FauxPearl-Italic.woff"
-            }            
-        ],
+        "fontFiles": [
+        {
+            "style": "Faux Pearl Black",
+            "src": "FauxPearl-Black.woff"
+        },
+        {
+            "style": "Faux Pearl Regular",
+            "src": "FauxPearl-Regular.woff"
+        },
+        {
+            "style": "Faux Pearl Italic",
+            "src": "FauxPearl-Italic.woff"
+        }            
+    ],
         "specimenImages": [
             {
                 "src": "fauxpearl_type specimen v1_01.png",
@@ -1753,47 +1755,6 @@
     ]
     },
     {
-        "name": "Lalita Kohls",
-        "slug": "skydiver",
-        "location": "San Francisco, USA",
-        "bio": "Bio",
-        "typefaceName": "Skydiver",
-        "typefaceDesc": "Description",
-        "pangram": "The quick brown fox jumps over the lazy dog",
-        "instagram": "",
-        "mastodon": "",
-        "twitter": "",
-        "websiteURL": "",
-        "graduationVideo": "",
-        "specimenImages": [
-            {
-                "src": "skydiver website images-01.png",
-                "alt": "alt",
-                "caption": "caption"
-            },
-            {
-                "src": "skydiver website images-02.png",
-                "alt": "alt",
-                "caption": "caption"
-            },
-            {
-                "src": "skydiver website images-03.png",
-                "alt": "alt",
-                "caption": "caption"
-            },
-            {
-                "src": "skydiver website images-04.png",
-                "alt": "alt",
-                "caption": "caption"
-            },
-            {
-                "src": "skydiver website images-05.png",
-                "alt": "alt",
-                "caption": "caption"
-            }
-        ]
-    },
-    {
         "name": "Whitney Smith",
         "slug": "solstice",
         "location": "San Francisco, USA",
@@ -1872,6 +1833,47 @@
             {
                 "style": "Solstice Condensed",
                 "src": "Solstice_1_30_FINAL-Condensed.woff"
+            }
+        ]
+    },
+    {
+        "name": "Lalita Kohls",
+        "slug": "skydiver",
+        "location": "San Francisco, USA",
+        "bio": "Bio",
+        "typefaceName": "Skydiver",
+        "typefaceDesc": "Description",
+        "pangram": "The quick brown fox jumps over the lazy dog",
+        "instagram": "",
+        "mastodon": "",
+        "twitter": "",
+        "websiteURL": "",
+        "graduationVideo": "",
+        "specimenImages": [
+            {
+                "src": "skydiver website images-01.png",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "skydiver website images-02.png",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "skydiver website images-03.png",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "skydiver website images-04.png",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "skydiver website images-05.png",
+                "alt": "alt",
+                "caption": "caption"
             }
         ]
     },
