@@ -1767,7 +1767,27 @@
         "graduationVideo": "",
         "specimenImages": [
             {
-                "src": "svg-sample.svg",
+                "src": "skydiver website images-01.png",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "skydiver website images-02.png",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "skydiver website images-03.png",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "skydiver website images-04.png",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "skydiver website images-05.png",
                 "alt": "alt",
                 "caption": "caption"
             }
