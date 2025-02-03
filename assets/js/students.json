@@ -1584,20 +1584,68 @@
         "name": "Eli Block",
         "slug": "linear-e",
         "location": "San Francisco, USA",
-        "bio": "Bio",
+        "bio": "Eli is a San Francisco-based Designer & Art Director with skills across a range of disciplines including industrial design, creative strategy, and visual design. He's currently working on product design for Airbnb and Samara. Previously, he straddled the design, product research and development, and Trends teams at Google Creative Lab and Google Brand Studio. He’s interested in linguistics, global scripts, and art and archaeology.",
         "typefaceName": "Linear E",
-        "typefaceDesc": "Description",
-        "pangram": "The quick brown fox jumps over the lazy dog",
-        "instagram": "",
+        "typefaceDesc": "Linear E is a truly mono-linear type family with support for Latin, Greek, and Cyrillic. Linear E has a flexible and variable vector skeleton, and is designed to be cleanly and exactly traced by machines—like pen plotters and CNC routers—at different scales, in several styles, and with a variety of implements and media.",
+        "pangram": "Linear B is a syllabic script that was used for writing in Mycenaean Greek.",
+        "instagram": "eli.block",
         "mastodon": "",
         "twitter": "",
-        "websiteURL": "",
+        "websiteURL": "https://eli-block.com",
         "graduationVideo": "",
         "specimenImages": [
             {
-                "src": "svg-sample.svg",
+                "src": "Linear E — Sample 1.webp",
                 "alt": "alt",
                 "caption": "caption"
+            },
+            {
+                "src": "Linear E — Sample 2.webp",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "Linear E — Sample 3.webp",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "Linear E — Sample 4.webp",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "Linear E — Sample 5.webp",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "Linear E — Sample 6.webp",
+                "alt": "alt",
+                "caption": "caption"
+            },
+            {
+                "src": "Linear E — Sample 7.webp",
+                "alt": "alt",
+                "caption": "caption"
+            }
+        ],
+        "fontFiles": [
+            {
+                "style": "Linear E Light",
+                "src": "LinearE-Light.woff"
+            },
+            {
+                "style": "Linear E Light Italic",
+                "src": "LinearE-LightItalic.woff"
+            },
+            {
+                "style": "Linear E SemiBold",
+                "src": "LinearE-SemiBold.woff"
+            },
+            {
+                "style": "Linear E SemiBold Italic",
+                "src": "LinearE-SemiBoldItalic.woff"
             }
         ]
     },

@@ -113,9 +113,13 @@ src: url("../specimens/moonquill/Moonquill-Moonquill1.woff") format("woff"); }
   font-family: 'Doménikos';
   src: url("../specimens/domenikos/Domenikos_Regular.woff") format("woff"); }
 
-  @font-face {
-    font-family: 'Solstice';
-    src: url("../specimens/solstice/Solstice_1_30_FINAL-Regular.woff") format("woff"); }
+@font-face {
+  font-family: 'Solstice';
+  src: url("../specimens/solstice/Solstice_1_30_FINAL-Regular.woff") format("woff"); }
+
+@font-face {
+  font-family: 'Linear E';
+  src: url("../specimens/linear-e/LinearE-Light.woff") format("woff"); }
 
 /* Reset
  * ------------------------------------------------------------- */
