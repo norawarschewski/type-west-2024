@@ -1914,9 +1914,9 @@
         "name": "Yujin Chiang",
         "slug": "tainan-roman",
         "location": "San Francisco, USA",
-        "bio": "Bio",
+        "bio": "Yujin Chiang is a Taiwanese graphic designer with a background in industrial design, a discipline that sharpened his focus on function, precision, and context. Now based in San Francisco, he works independently, exploring the intersection of technology, typography, and visual culture. His design practice is not just about aesthetics but the histories and ideologies that shape them. A Konstfack graduate, Yujin moves fluidly between analysis and intuition, embracing both the conceptual and the tactile. Outside of work, he finds satisfaction in cooking—another form of design, measured yet instinctive.",
         "typefaceName": "Tainan Roman",
-        "typefaceDesc": "Description",
+        "typefaceDesc": "Tainan Roman is a labor of love dedicated to my home and mother tongue, Taiwanese, or Tâi-gí. It is a text typeface designed to support Pe̍h-ōe-jī (POJ), the Romanization system for the Tâi-gí. This project arose from the lack of well-crafted diacritics for POJ and the broader challenge of preserving a written tradition that has survived waves of political suppression and modernization. Tainan Roman is informed by Adrian Frutiger’s Méridien, drawing on principles of rhythmic balance, concave stems, and firm yet understated serifs. Typography carries history, identity, and power. POJ is not just a Romanization system; it is a record of resistance, a tool of survival, a voice that refuses to be erased. This typeface is my way of contributing to that ongoing story. Tainan Roman is not just a typeface; it is a step toward ensuring Tâi-gí remains seen, written, and remembered.",
         "pangram": "The quick brown fox jumps over the lazy dog",
         "instagram": "",
         "mastodon": "",
@@ -1928,6 +1928,40 @@
                 "src": "svg-sample.svg",
                 "alt": "alt",
                 "caption": "caption"
+            }
+        ],
+        "fontFiles": [
+            {
+                "style": "Tainan Roman Black",
+                "src": "TainanRoman-Black.woff"
+            },
+            {
+                "style": "Tainan Roman Bold",
+                "src": "TainanRoman-Bold.woff"
+            },
+            {
+                "style": "Tainan Roman Extrabold",
+                "src": "TainanRoman-ExtraBold.woff"
+            },
+            {
+                "style": "Tainan Roman Italic",
+                "src": "TainanRoman-Italic.woff"
+            },
+            {
+                "style": "Tainan Roman Light",
+                "src": "TainanRoman-Light.woff"
+            },
+            {
+                "style": "Tainan Roman Medium",
+                "src": "TainanRoman-Medium.woff"
+            },
+            {
+                "style": "Tainan Roman Regular",
+                "src": "TainanRoman-Regular.woff"
+            },
+            {
+                "style": "Tainan Roman Semibold",
+                "src": "TainanRoman-Semibold.woff"
             }
         ]
     }
