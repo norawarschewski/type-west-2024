@@ -1363,7 +1363,7 @@
                 "caption": "caption"
             },
             {
-                "src": "moon6.jpg",
+                "src": "moon6.gif",
                 "alt": "",
                 "caption": "caption"
             },
@@ -1379,6 +1379,11 @@
             },
             {
                 "src": "moonquill10.jpg",
+                "alt": "",
+                "caption": "caption"
+            },
+            {
+                "src": "moon11.jpg",
                 "alt": "",
                 "caption": "caption"
             }
