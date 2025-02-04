@@ -1835,9 +1835,9 @@
         "name": "Lalita Kohls",
         "slug": "skydiver",
         "location": "San Francisco, USA",
-        "bio": "Bio",
+        "bio": "Graphic designer",
         "typefaceName": "Skydiver",
-        "typefaceDesc": "Description",
+        "typefaceDesc": "A sans-serif typeface family with variable weight and contrast.",
         "pangram": "The quick brown fox jumps over the lazy dog",
         "instagram": "",
         "mastodon": "",
@@ -1869,6 +1869,44 @@
                 "src": "skydiver website images-05.png",
                 "alt": "alt",
                 "caption": "caption"
+            }
+        ],
+        "fontFiles": [
+            {
+                "style": "Skydiver Monolinear Thin",
+                "src": "Skydiver01.10.25-MonolinearThin_otf.woff2"
+            },
+            {
+                "style": "Skydiver Monolinear Regular",
+                "src": "Skydiver01.10.25-MonolinearRegular_otf.woff2"
+            },
+            {
+                "style": "Skydiver Monolinear Black",
+                "src": "Skydiver01.10.25-MonolinearBlack_otf.woff2"
+            },
+            {
+                "style": "Skydiver Low-Contrast Thin",
+                "src": "Skydiver01.10.25-Thin_otf.woff2"
+            },
+            {
+                "style": "Skydiver Low-Contrast Regular",
+                "src": "Skydiver01.10.25-Regular_otf.woff2"
+            },
+            {
+                "style": "Skydiver Low-Contrast Black",
+                "src": "Skydiver01.10.25-Black_otf.woff2"
+            },
+            {
+                "style": "Skydiver High-Contrast Thin",
+                "src": "Skydiver01.10.25-HighContrastThin_otf.woff2"
+            },
+            {
+                "style": "Skydiver High-Contrast Regular",
+                "src": "Skydiver01.10.25-HighContrastRegular_otf.woff2"
+            },
+            {
+                "style": "Skydiver High-Contrast Black",
+                "src": "Skydiver01.10.25-HighContrastBlack_otf.woff2"
             }
         ]
     },

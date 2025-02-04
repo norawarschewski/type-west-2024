@@ -125,6 +125,10 @@ src: url("../specimens/moonquill/Moonquill-Moonquill1.woff") format("woff"); }
   font-family: 'Spaceships';
   src: url("../specimens/spaceships/Spaceships-Typewest-1-Bold.woff") format("woff"); }
 
+@font-face {
+  font-family: 'Skydiver';
+  src: url("../specimens/skydiver/Skydiver01.10.25-Regular_otf.woff2") format("woff2"); }
+
 /* Reset
  * ------------------------------------------------------------- */
 * {
