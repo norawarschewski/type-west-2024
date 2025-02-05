@@ -1094,11 +1094,7 @@
             },
             {
                 "style": "Cara Bold",
-                "src": "CaraBold-Regular.woff"
-            },
-            {
-                "style": "Family name Ultra",
-                "src": "name.woff"
+                "src": "CaraBold-Bold.woff"
             }
         ]
     }, 
