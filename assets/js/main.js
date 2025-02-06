@@ -37,14 +37,18 @@ document.addEventListener('DOMContentLoaded', function () {
             if (prevStudent) {
                 prevLink.href = `../${prevStudent.slug}/`;
                 prevLink.querySelector('span').textContent = prevStudent.name; 
-            } 
+            } else if (prevLink) {
+                prevLink.style.display = "none"; // Hide if no previous student
+            }
 
             // Set next project link if it exists
             const nextLink = document.querySelector('.next');
             if (nextStudent) {
                 nextLink.href = `../${nextStudent.slug}/`;
                 nextLink.querySelector('span').textContent = nextStudent.name; 
-            } 
+            } else if (nextLink) {
+                nextLink.style.display = "none"; // Hide if no next student
+            }
 
             if (student) {
                 const studentInfo = `${student.name} · ${student.location}`;
