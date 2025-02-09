@@ -2,15 +2,7 @@
 
 ## About the project
 
-xxx
-
-## Technology and Attributes
-
-- xxx
-
-## Fork this project
-
-xx
+This repository hosts the development version of the graduation website for the Type West Class of 2024. The live version can be found here: [https://typewest.letterformarchive.org/2024/](https://typewest.letterformarchive.org/2024/)
 
 ## Adding a project
 
