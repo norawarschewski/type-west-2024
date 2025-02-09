@@ -14,14 +14,14 @@ xx
 
 ## Adding a project
 
-* Update `assets/js/students.js` with the student data (the name set in `slug` needs to be the same for the next two steps)
-* create a new project in the folder in `/typeface` and give it the name of the typeface
-* create a folder assets/specimens with the name of the typeface
+* create a new project in the folder in `/typeface` and give it the name of the typeface (this will be the slug). This is most easily done by just copying one of the existing folders. The title needs to be manually edited in the `index.html`.
+* create a folder `assets/specimens` with the name of the typeface (slug). Put in the woff files and images without any subfolder.
+* Update `assets/js/students.js` with the student data (the name set in `slug` needs to be the same as previously mentioned)
 * add the @fontface import to `_classfonts.scss` and reference all available styles of the typeface
 * add the main style of the typeface to `css/screen.min.css`
 
 ## Adding the graduation video
-Once the individual graduation videos are uploaded to vimeo, they can be easily added in the students.json by adding the URL to `"graduationVideo": "",` for each student.
+Once the individual graduation videos are uploaded to vimeo, they can be easily added in the `students.json` by adding the URL to `"graduationVideo": "",` for each student.
 
 ## Editing general information
 * `about.html` (thank you notes)
