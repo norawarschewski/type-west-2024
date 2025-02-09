@@ -702,15 +702,7 @@ figcaption {
 }
 
 #button--lucky--single {
-  background: var(--col-typewest);
-  color: var(--col-text-reverse);
-  font-weight: bold;
-  cursor: pointer;
-  padding: 1.5rem 2.5rem;
-  border-radius: 5rem;
-  display: flex;
-  flex-direction: row-reverse;
-  width: fit-content;
+  display: none;
 
   &:hover {
     background: var(--col-page);
