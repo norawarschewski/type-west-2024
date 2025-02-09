@@ -14,14 +14,14 @@ xx
 
 ## Adding a project
 
-* Update assets/js/students.js with the student data
-* create a new project in the folder /typeface and give it the name of the typeface
+* Update assets/js/students.js with the student data (the name set in 'slug' needs to be the same for the next two steps)
+* create a new project in the folder in /typeface and give it the name of the typeface
 * create a folder assets/specimens with the name of the typeface
 * add the @fontface import to _classfonts.scss and reference all available styles of the typeface
 * add the main style of the typeface to css/screen.min.css
 
 ## Editing general information
-* about. (thank you notes)
+* about.html (thank you notes)
 * assets/js/generalcontent.js (social links of the Archive)
 
 ## Structure
