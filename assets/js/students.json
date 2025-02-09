@@ -1926,7 +1926,27 @@
         "graduationVideo": "",
         "specimenImages": [
             {
-                "src": "",
+                "src": "Yujin_webImages1.jpg",
+                "alt": "",
+                "caption": "caption"
+            },
+            {
+                "src": "Yujin_webImages2.jpg",
+                "alt": "",
+                "caption": "caption"
+            },
+            {
+                "src": "Yujin_webImages3.jpg",
+                "alt": "",
+                "caption": "caption"
+            },
+            {
+                "src": "Yujin_webImages4.jpg",
+                "alt": "",
+                "caption": "caption"
+            },
+            {
+                "src": "Yujin_webImages5.jpg",
                 "alt": "",
                 "caption": "caption"
             }
