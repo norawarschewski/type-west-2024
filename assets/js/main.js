@@ -111,14 +111,9 @@ document.addEventListener('DOMContentLoaded', function () {
 
                     const imgElement = document.createElement('img');
                     imgElement.src = `../../assets/specimens/${student.slug}/${specimen.src}`; // Set the source to the specimen image URL
-                    imgElement.alt = specimen.alt; // Set the alt text
-
-                    const figcaptionElement = document.createElement('figcaption');
-                    figcaptionElement.textContent = specimen.caption; // Set the caption text
 
                     // Append img and figcaption to figure
                     figureElement.appendChild(imgElement);
-                    figureElement.appendChild(figcaptionElement);
 
                     // Append figure to the specimens section
                     specimensSection.appendChild(figureElement);
