@@ -133,6 +133,10 @@ src: url("../specimens/moonquill/Moonquill-Moonquill1.woff") format("woff"); }
   font-family: 'Tainan Roman';
   src: url("../specimens/tainan-roman/TainanRoman-Regular.woff") format("woff"); }
 
+@font-face {
+  font-family: 'Hyacinth';
+  src: url("../specimens/hyacinth/Hyacinth-regular.woff") format("woff"); }
+
 /* Reset
  * ------------------------------------------------------------- */
 * {

@@ -1,5 +1,76 @@
 [
     {
+        "name": "Taylor Beldy",
+        "slug": "hyacinth",
+        "location": "Santa Cruz, United States",
+        "bio": "Taylor Beldy is a designer living in Santa Cruz California. After spending a few years working behind screens, they are pivoting towards creative work that is tactile and inefficient.",
+        "typefaceName": "Hyacinth",
+        "typefaceDesc": "Hyacinth is sharp, textured, clunk. Sculpted for paper and prose, the type is best viewed in hand at book scale. There are four letter styles currently in development — regular, bold, italic, and block. Chiseled forms reference a wood-block and print inspired process. The glyphs aren’t true translation and show artifacts of carving letters into a rigid medium - sharp ‘thorns’, asymmetrical serifs, a wobbly baseline, modulated stems, and angular counters.",
+        "pangram": "Prominent dandelions will phone amazed friendly daffodils.",
+        "instagram": "",
+        "mastodon": "",
+        "websiteURL": "",
+        "graduationVideo": "",
+        "specimenImages": [
+            {
+                "src": "01_taylorb_typewest24_web.jpg",
+                "alt": "",
+                "caption": "caption"
+            },
+            {
+                "src": "02_taylorb_typewest24_web.jpg",
+                "alt": "",
+                "caption": "caption"
+            },
+            {
+                "src": "03_taylorb_typewest24_web.jpg",
+                "alt": "",
+                "caption": "caption"
+            },
+            {
+                "src": "04_taylorb_typewest24_web.jpg",
+                "alt": "",
+                "caption": "caption"
+            },
+            {
+                "src": "05_taylorb_typewest24_web.jpg",
+                "alt": "",
+                "caption": "caption"
+            },
+            {
+                "src": "06_taylorb_typewest24_web.jpg",
+                "alt": "",
+                "caption": "caption"
+            },
+            {
+                "src": "07_taylorb_typewest24_web.jpg",
+                "alt": "",
+                "caption": "caption"
+            },
+            {
+                "src": "08_taylorb_typewest24_web.jpg",
+                "alt": "",
+                "caption": "caption"
+            },
+            {
+                "src": "09_taylorb_typewest24_web.jpg",
+                "alt": "",
+                "caption": "caption"
+            },
+            {
+                "src": "10_taylorb_typewest24_web.jpg",
+                "alt": "",
+                "caption": "caption"
+            }
+        ],
+        "fontFiles": [
+            {
+                "style": "Hyacinth Regular",
+                "src": "Hyacinth-regular.woff"
+            }
+    ]
+    }, 
+    {
         "name": "Aitana Cantú",
         "slug": "spore-print",
         "location": "Los Angeles, United States",
