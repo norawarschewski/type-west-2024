@@ -92,11 +92,11 @@ document.addEventListener('DOMContentLoaded', function () {
 
                 if (typeof student.graduationVideo === 'string' && student.graduationVideo.trim() !== "") {
                     const iframe = videoSection.querySelector('iframe');
-                    iframe.src = graduationVideo.src;
-                    iframe.title = graduationVideo.title;
+                    iframe.src = student.graduationVideo; // Directly assign the URL to iframe.src
+                    iframe.title = `${student.name}'s Graduation Video`; 
                 } else {
                     videoSection.style.display = "none"; // Hide the entire video section if no video is present
-                }
+                }                    
 
                 // Populate all elements with the class 'typeface-name'
                 const typefaceElements = document.getElementsByClassName('typefaceName');
@@ -159,7 +159,7 @@ document.addEventListener('DOMContentLoaded', function () {
             } else {
                 console.error('Student not found');
                 document.getElementById('aboutStudentName').textContent = "About"; // Optional: handle case when student not found
-            }
+            }            
         })
         .catch(error => console.error('Error fetching student data:', error));
 });
